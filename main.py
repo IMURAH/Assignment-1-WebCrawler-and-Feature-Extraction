@@ -7,7 +7,6 @@
 
 import os
 import urllib.request
-from collections import Counter
 
 
 def fetch_html(url):
@@ -32,7 +31,7 @@ def extract_features(filename):
 
 
 def main(root_url, depth):
-    print("We're working on it.")
+    print(root_url, depth)
     # Add root URL to FIFO queue.
     # Dequeue root URL, fetch, save, and feature extract HTML, parse any links into FIFO queue.
     # For depth:

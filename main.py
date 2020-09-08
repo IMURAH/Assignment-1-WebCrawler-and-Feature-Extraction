@@ -7,6 +7,7 @@
 
 import os
 import urllib.request
+from collections import Counter
 
 
 def fetch_html(url):
@@ -17,5 +18,20 @@ def fetch_html(url):
     file.close()
 
 
+def extract_features(filename):
+    file = open("output/" + filename + ".txt", "rb").read()
+    file_data = file.decode()
+    features = {}
+    for n in file_data:
+        keys = features.keys()
+        if n in keys:
+            features[n] += 1
+        else:
+            features[n] = 1
+    print(features)
+
+
 fetch_html("https://en.wikipedia.org/wiki/GW190521")
 fetch_html("https://en.wikipedia.org/wiki/2020_Montenegrin_parliamentary_election")
+
+extract_features("httpsenwikipediaorgwikiGW")

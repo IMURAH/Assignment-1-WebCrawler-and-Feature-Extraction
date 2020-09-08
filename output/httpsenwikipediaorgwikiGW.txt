@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>GW190521 - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"6eed0fc0-2a2a-4cef-a7e5-e179bcbb9cc1","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"GW190521","wgTitle":"GW190521","wgCurRevisionId":977328399,"wgRevisionId":977328399,"wgArticleId":64382557,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use dmy dates from June 2020","Articles using Infobox astronomical event using locally defined parameters","2019 in science","2019 in space","Black holes","Gravitational waves","May 2019 events","Theory of relativity"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"GW190521","wgRelevantArticleId":64382557,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q96777153"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/27/PhysRevLett.125.101102_Fig1.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/GW190521"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=GW190521&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=GW190521&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/GW190521"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-GW190521 rootpage-GW190521 skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">GW190521</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Gravitational wave signal resulting from the merger of two black holes recorded 2019</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox" style="width:22em"><caption>GW190521</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:PhysRevLett.125.101102_Fig1.png" class="image"><img alt="PhysRevLett.125.101102 Fig1.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/PhysRevLett.125.101102_Fig1.png/280px-PhysRevLett.125.101102_Fig1.png" decoding="async" width="280" height="136" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/PhysRevLett.125.101102_Fig1.png/420px-PhysRevLett.125.101102_Fig1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/2/27/PhysRevLett.125.101102_Fig1.png 2x" data-file-width="500" data-file-height="243" /></a><div>The GW event GW190521 observed by the LIGO Hanford (left), LIGO Livingston (middle), and Virgo (right) detectors</div></td></tr><tr><th scope="row">Event type</th><td><a href="/wiki/Gravitational_wave" title="Gravitational wave">Gravitational wave</a>, <a href="/wiki/Celestial_event" title="Celestial event">celestial event</a>, <a href="/wiki/Astronomical_object" title="Astronomical object">astronomical object</a>&#160;<span class="penicon"><a href="https://www.wikidata.org/wiki/Q96777153?uselang=en#P31" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></td></tr><tr><th scope="row">Date</th><td>21 May 2019&#160;<span class="penicon"><a href="https://www.wikidata.org/wiki/Q96777153?uselang=en#P575" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></td></tr><tr><th scope="row">Instrument</th><td><a href="/wiki/LIGO" title="LIGO">LIGO</a>, <a href="/wiki/Virgo_interferometer" title="Virgo interferometer">Virgo</a><sup id="cite_ref-LIGO-20190521_1-0" class="reference"><a href="#cite_note-LIGO-20190521-1">&#91;1&#93;</a></sup><sup id="cite_ref-NASA-20200625_2-0" class="reference"><a href="#cite_note-NASA-20200625-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Constellation" title="Constellation">Constellation</a></th><td><a href="/wiki/Coma_Berenices" title="Coma Berenices">Coma Berenices</a>, <a href="/wiki/Canes_Venatici" title="Canes Venatici">Canes Venatici</a>, <a href="/wiki/Phoenix_(constellation)" title="Phoenix (constellation)">Phoenix</a>&#160;<span class="penicon"><a href="https://www.wikidata.org/wiki/Q96777153?uselang=en#P59" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></td></tr><tr><th scope="row"><a href="/wiki/Right_ascension" title="Right ascension">Right ascension</a></th><td>&#160;12<sup>h</sup>&#160;49<sup>m</sup>&#160;42.3<sup>s</sup><sup id="cite_ref-PRL-20200625_3-0" class="reference"><a href="#cite_note-PRL-20200625-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Declination" title="Declination">Declination</a></th><td>−34&#176;&#160;49&#8242;&#160;29&#8243;<sup id="cite_ref-PRL-20200625_3-1" class="reference"><a href="#cite_note-PRL-20200625-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">Epoch</a></th><td><a href="/wiki/J2000.0" class="mw-redirect" title="J2000.0">J2000.0</a></td></tr><tr><th scope="row">Distance</th><td>5,300 <a href="/wiki/Parsec#Megaparsecs_and_gigaparsecs" title="Parsec">megaparsecs</a> (17,000&#160;<a href="/wiki/Light-year#Definitions" title="Light-year">Mly</a>)<sup id="cite_ref-AJ-20200902_4-0" class="reference"><a href="#cite_note-AJ-20200902-4">&#91;4&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Redshift" title="Redshift">Redshift</a></th><td>0.82 ±0.3&#160;<span class="penicon"><a href="https://www.wikidata.org/wiki/Q96777153?uselang=en#P1090" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></td></tr><tr><td colspan="2" style="text-align:center"><div class="metadata" style="text-align: right;">&#91;<a href="https://www.wikidata.org/wiki/Q96777153" class="extiw" title="d:Q96777153">edit on Wikidata</a>]</div></td></tr></tbody></table>
+<p><b>GW190521</b> (or <b>GW190521g</b>; initially, <b>S190521g</b>)<sup id="cite_ref-PRL-20200902_5-0" class="reference"><a href="#cite_note-PRL-20200902-5">&#91;5&#93;</a></sup> is a <a href="/wiki/Gravitational_wave" title="Gravitational wave">gravitational wave</a> signal resulting from the merger of two <a href="/wiki/Black_hole" title="Black hole">black holes</a>. It was possibly associated with a coincident flash of light; if this association is correct, the merger would have occurred near a third <a href="/wiki/Supermassive_black_hole" title="Supermassive black hole">supermassive black hole</a>.<sup id="cite_ref-NASA-20200625_2-1" class="reference"><a href="#cite_note-NASA-20200625-2">&#91;2&#93;</a></sup><sup id="cite_ref-NYT-20200625_6-0" class="reference"><a href="#cite_note-NYT-20200625-6">&#91;6&#93;</a></sup> The event was observed by the <a href="/wiki/LIGO" title="LIGO">LIGO</a> and <a href="/wiki/Virgo_interferometer" title="Virgo interferometer">Virgo</a> detectors on 21 May 2019 at 03:02:29 UTC,<sup id="cite_ref-UL-2020_7-0" class="reference"><a href="#cite_note-UL-2020-7">&#91;7&#93;</a></sup> and published on 2 September 2020.<sup id="cite_ref-AJ-20200902_4-1" class="reference"><a href="#cite_note-AJ-20200902-4">&#91;4&#93;</a></sup><sup id="cite_ref-PRL-20200902_5-1" class="reference"><a href="#cite_note-PRL-20200902-5">&#91;5&#93;</a></sup><sup id="cite_ref-LIGO-20200902_8-0" class="reference"><a href="#cite_note-LIGO-20200902-8">&#91;8&#93;</a></sup> The event was 17&#160;billion light years away,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;n 1&#93;</a></sup><sup id="cite_ref-PRL-20200902_5-2" class="reference"><a href="#cite_note-PRL-20200902-5">&#91;5&#93;</a></sup><sup id="cite_ref-NYT-20200903_10-0" class="reference"><a href="#cite_note-NYT-20200903-10">&#91;9&#93;</a></sup> within a 765 deg<sup>2</sup> area<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;n 2&#93;</a></sup><sup id="cite_ref-NASA-20190521_12-0" class="reference"><a href="#cite_note-NASA-20190521-12">&#91;10&#93;</a></sup> towards <a href="/wiki/Coma_Berenices" title="Coma Berenices">Coma Berenices</a>, <a href="/wiki/Canes_Venatici" title="Canes Venatici">Canes Venatici</a>, or <a href="/wiki/Phoenix_(constellation)" title="Phoenix (constellation)">Phoenix</a>.<sup id="cite_ref-LIGO-20190521_1-1" class="reference"><a href="#cite_note-LIGO-20190521-1">&#91;1&#93;</a></sup><sup id="cite_ref-NASA-20200625_2-2" class="reference"><a href="#cite_note-NASA-20200625-2">&#91;2&#93;</a></sup><sup id="cite_ref-NYT-20200625_6-1" class="reference"><a href="#cite_note-NYT-20200625-6">&#91;6&#93;</a></sup><sup id="cite_ref-PHYS-20200625_13-0" class="reference"><a href="#cite_note-PHYS-20200625-13">&#91;11&#93;</a></sup>
+</p><p>At 85 and 66 <a href="/wiki/Solar_masses" class="mw-redirect" title="Solar masses">solar masses</a> (<var>M</var><sub>☉</sub>) respectively, the two black holes comprising this merger are the largest progenitor masses observed to date.<sup id="cite_ref-FRBS-20200903_14-0" class="reference"><a href="#cite_note-FRBS-20200903-14">&#91;12&#93;</a></sup> The resulting black hole had a mass equivalent to 142 times that of the Sun, making this the first clear detection of an <a href="/wiki/Intermediate-mass_black_hole" title="Intermediate-mass black hole">intermediate-mass black hole</a>. The remaining 9 solar masses were radiated as energy in the form of gravitational waves.<sup id="cite_ref-AJ-20200902_4-2" class="reference"><a href="#cite_note-AJ-20200902-4">&#91;4&#93;</a></sup><sup id="cite_ref-PRL-20200902_5-3" class="reference"><a href="#cite_note-PRL-20200902-5">&#91;5&#93;</a></sup><sup id="cite_ref-LIGO-20200902_8-1" class="reference"><a href="#cite_note-LIGO-20200902-8">&#91;8&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Physical_significance"><span class="tocnumber">1</span> <span class="toctext">Physical significance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Possible_electromagnetic_counterpart"><span class="tocnumber">2</span> <span class="toctext">Possible electromagnetic counterpart</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Physical_significance">Physical significance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GW190521&amp;action=edit&amp;section=1" title="Edit section: Physical significance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>GW190521 is a significant discovery due to the masses of the resulting large black hole, and one or both of the smaller constituent black holes. Stellar evolution theory predicts that stars cannot produce black holes of more than about 65&#160;<var>M</var><sub>&#x2609;</sub>, so there should be a <a href="/wiki/Stellar_black_hole#Upper_mass_gap" title="Stellar black hole">black hole mass gap</a> above that value. The <span class="nowrap"><span data-sort-value="7001850000000000000♠"></span>85<span style="margin-left:0.3em;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:85%;text-align:right;">+21<br />−14</span></span></span>&#160;<var>M</var><sub>&#x2609;</sub> and <span class="nowrap"><span data-sort-value="7002142000000000000♠"></span>142<span style="margin-left:0.3em;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:85%;text-align:right;">+28<br />−16</span></span></span>&#160;<var>M</var><sub>&#x2609;</sub> black holes observed in GW190521 are conclusively in the mass gap, indicating that it can be populated by the mergers of smaller black holes.<sup id="cite_ref-AJ-20200902_4-3" class="reference"><a href="#cite_note-AJ-20200902-4">&#91;4&#93;</a></sup>
+</p><p>Only indirect evidence for <a href="/wiki/Intermediate-mass_black_hole" title="Intermediate-mass black hole">intermediate mass black holes</a>, those with between 100 and 100,000 <a href="/wiki/Solar_mass" title="Solar mass">solar masses</a>, had been observed earlier, and it was unclear how they had formed.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;13&#93;</a></sup> Researchers hypothesize "a hierarchical merger, in which the two progenitor black holes themselves may have formed from the merging of two smaller black holes, before migrating together and eventually merging."<sup id="cite_ref-LIGO-20200902_8-2" class="reference"><a href="#cite_note-LIGO-20200902-8">&#91;8&#93;</a></sup>
+</p><p>According to discovery team member <a href="/wiki/Vicky_Kalogera" title="Vicky Kalogera">Vassiliki Kalogera</a> of <a href="/wiki/Northwestern_University" title="Northwestern University">Northwestern University</a>, "this is the first and only firm/secure mass measurement of an intermediate mass black hole at the time of its birth ... Now we know reliably at least one way [such objects can form], through the merger of other black holes."<sup id="cite_ref-NYT-20200903_10-1" class="reference"><a href="#cite_note-NYT-20200903-10">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Possible_electromagnetic_counterpart">Possible electromagnetic counterpart</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GW190521&amp;action=edit&amp;section=2" title="Edit section: Possible electromagnetic counterpart">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In June 2020 astronomers reported observations of a flash of light that might be associated with GW190521. The <a href="/wiki/Zwicky_Transient_Facility" title="Zwicky Transient Facility">Zwicky Transient Facility</a> (ZTF) reported a transient optical source within the region of the GW190521g trigger, though as the uncertainty in sky position was hundreds of square degrees the association remains uncertain. If the two events are actually linked, the event is claimed to be the first finding of an <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">electromagnetic source</a> related to the merger of two black holes.<sup id="cite_ref-NASA-20200625_2-3" class="reference"><a href="#cite_note-NASA-20200625-2">&#91;2&#93;</a></sup><sup id="cite_ref-PRL-20200625_3-2" class="reference"><a href="#cite_note-PRL-20200625-3">&#91;3&#93;</a></sup><sup id="cite_ref-NYT-20200625_6-2" class="reference"><a href="#cite_note-NYT-20200625-6">&#91;6&#93;</a></sup><sup id="cite_ref-SD-20200626_16-0" class="reference"><a href="#cite_note-SD-20200626-16">&#91;14&#93;</a></sup> Mergers of black holes do not typically emit any light. The researchers suggest that it could be explained if the merging of the two smaller black holes sent the newly formed intermediate mass black hole on a trajectory that hurtled through the <a href="/wiki/Accretion_disk" title="Accretion disk">accretion disk</a> of an unrelated but nearby <a href="/wiki/Supermassive_black_hole" title="Supermassive black hole">supermassive black hole</a>, disrupting the disk material and producing a flare of light. The newly formed black hole would have traveled at 200&#160;km/s (120&#160;mi/s) through the disk, according to the astronomers.<sup id="cite_ref-IFLS-20200625_17-0" class="reference"><a href="#cite_note-IFLS-20200625-17">&#91;15&#93;</a></sup> If this explanation is correct, the flare should repeat after about 1.6 years<sup id="cite_ref-PRL-20200625_3-3" class="reference"><a href="#cite_note-PRL-20200625-3">&#91;3&#93;</a></sup> when the intermediate mass black hole again encounters the accretion disk.<sup id="cite_ref-IFLS-20200625_17-1" class="reference"><a href="#cite_note-IFLS-20200625-17">&#91;15&#93;</a></sup>
+</p><p>According to Matthew Graham, lead astronomer for the study, "This supermassive black hole was burbling along for years before this more abrupt flare. The flare occurred on the right timescale, and in the right location, to be coincident with the gravitational-wave event. In our study, we conclude that the flare is likely the result of a black hole merger, but we cannot completely rule out other possibilities."<sup id="cite_ref-IFLS-20200625_17-2" class="reference"><a href="#cite_note-IFLS-20200625-17">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GW190521&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Gravitational-wave_astronomy" title="Gravitational-wave astronomy">Gravitational-wave astronomy</a></li>
+<li><a href="/wiki/List_of_gravitational_wave_observations" title="List of gravitational wave observations">List of gravitational wave observations</a></li>
+<li><a href="/wiki/Multi-messenger_astronomy" title="Multi-messenger astronomy">Multi-messenger astronomy</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GW190521&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2020/09/02/science/black-hole-astronomy-physics.html">"The event unfolded at an almost unimaginable distance from Earth — in a spot that is now 17 billion light-years away according to standard cosmological calculations that describe an expanding universe." - NYT, 09/03/2020</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">The relatively large and distant area of the sky within which it is claimed to be possible to localize the source.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GW190521&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-LIGO-20190521-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-LIGO-20190521_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LIGO-20190521_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://gracedb.ligo.org/superevents/S190521g/view/">"Superevent info - S190521g"</a>. <i><a href="/wiki/LIGO" title="LIGO">LIGO</a></i>. 21 May 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">25 June</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LIGO&amp;rft.atitle=Superevent+info+-+S190521g&amp;rft.date=2019-05-21&amp;rft_id=https%3A%2F%2Fgracedb.ligo.org%2Fsuperevents%2FS190521g%2Fview%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-NASA-20200625-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-NASA-20200625_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NASA-20200625_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NASA-20200625_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-NASA-20200625_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFCofield2020" class="citation news cs1">Cofield, Calla (25 June 2020). <a rel="nofollow" class="external text" href="https://www.jpl.nasa.gov/news/news.php?feature=7688">"Black Hole Collision May Have Exploded With Light"</a>. <i><a href="/wiki/NASA" title="NASA">NASA</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 June</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NASA&amp;rft.atitle=Black+Hole+Collision+May+Have+Exploded+With+Light&amp;rft.date=2020-06-25&amp;rft.aulast=Cofield&amp;rft.aufirst=Calla&amp;rft_id=https%3A%2F%2Fwww.jpl.nasa.gov%2Fnews%2Fnews.php%3Ffeature%3D7688&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-PRL-20200625-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-PRL-20200625_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PRL-20200625_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-PRL-20200625_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-PRL-20200625_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFGraham,_M.J.2020" class="citation journal cs1">Graham, M.J.;  et al. (2020). <a rel="nofollow" class="external text" href="https://authors.library.caltech.edu/104019/1/PhysRevLett.124.251102.pdf">"Candidate Electromagnetic Counterpart to the Binary Black Hole Merger Gravitational-Wave Event S190521g"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/Physical_Review_Letters" title="Physical Review Letters">Physical Review Letters</a></i>. <b>124</b> (25): 251102. <a href="/wiki/ArXiv_(identifier)" class="mw-redirect" title="ArXiv (identifier)">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/2006.14122">2006.14122</a></span>. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2020PhRvL.124y1102G">2020PhRvL.124y1102G</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1103%2FPhysRevLett.124.251102">10.1103/PhysRevLett.124.251102</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/32639755">32639755</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:220055995">220055995</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Candidate+Electromagnetic+Counterpart+to+the+Binary+Black+Hole+Merger+Gravitational-Wave+Event+S190521g&amp;rft.volume=124&amp;rft.issue=25&amp;rft.pages=251102&amp;rft.date=2020&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A220055995&amp;rft_id=info%3Abibcode%2F2020PhRvL.124y1102G&amp;rft_id=info%3Aarxiv%2F2006.14122&amp;rft_id=info%3Apmid%2F32639755&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.124.251102&amp;rft.au=Graham%2C+M.J.&amp;rft_id=https%3A%2F%2Fauthors.library.caltech.edu%2F104019%2F1%2FPhysRevLett.124.251102.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-AJ-20200902-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-AJ-20200902_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AJ-20200902_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AJ-20200902_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AJ-20200902_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFAbbott,_R.2020" class="citation journal cs1">Abbott, R.;  et al. (2 September 2020). <a rel="nofollow" class="external text" href="https://doi.org/10.3847/2041-8213/aba493">"Properties and Astrophysical Implications of the 150 M ⊙ Binary Black Hole Merger GW190521"</a>. <i><a href="/wiki/The_Astrophysical_Journal" title="The Astrophysical Journal">The Astrophysical Journal</a></i>. <b>900</b> (1): L13. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.3847%2F2041-8213%2Faba493">10.3847/2041-8213/aba493</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=Properties+and+Astrophysical+Implications+of+the+150+M+%E2%8A%99+Binary+Black+Hole+Merger+GW190521&amp;rft.volume=900&amp;rft.issue=1&amp;rft.pages=L13&amp;rft.date=2020-09-02&amp;rft_id=info%3Adoi%2F10.3847%2F2041-8213%2Faba493&amp;rft.au=Abbott%2C+R.&amp;rft_id=%2F%2Fdoi.org%2F10.3847%2F2041-8213%2Faba493&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-PRL-20200902-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-PRL-20200902_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PRL-20200902_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-PRL-20200902_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-PRL-20200902_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFAbbott,_R.2020" class="citation journal cs1">Abbott, R.;  et al. (2 September 2020). <a rel="nofollow" class="external text" href="https://doi.org/10.1103/PhysRevLett.125.101102">"GW190521: A Binary Black Hole Merger with a Total Mass of 150 M ⊙"</a>. <i><a href="/wiki/Physical_Review_Letters" title="Physical Review Letters">Physical Review Letters</a></i>. <b>125</b> (10): 101102. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1103%2FPhysRevLett.125.101102">10.1103/PhysRevLett.125.101102</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=GW190521%3A+A+Binary+Black+Hole+Merger+with+a+Total+Mass+of+150+M+%E2%8A%99&amp;rft.volume=125&amp;rft.issue=10&amp;rft.pages=101102&amp;rft.date=2020-09-02&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.125.101102&amp;rft.au=Abbott%2C+R.&amp;rft_id=%2F%2Fdoi.org%2F10.1103%2FPhysRevLett.125.101102&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-NYT-20200625-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYT-20200625_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYT-20200625_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NYT-20200625_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFOverbye2020" class="citation news cs1"><a href="/wiki/Dennis_Overbye" title="Dennis Overbye">Overbye, Dennis</a> (25 June 2020). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2020/06/25/science/black-hole-collision-ligo.html">"Two Black Holes Colliding Not Enough? Make It Three - Astronomers claim to have seen a flash from the merger of two black holes within the maelstrom of a third, far bigger one"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 June</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Two+Black+Holes+Colliding+Not+Enough%3F+Make+It+Three+-+Astronomers+claim+to+have+seen+a+flash+from+the+merger+of+two+black+holes+within+the+maelstrom+of+a+third%2C+far+bigger+one.&amp;rft.date=2020-06-25&amp;rft.aulast=Overbye&amp;rft.aufirst=Dennis&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2020%2F06%2F25%2Fscience%2Fblack-hole-collision-ligo.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-UL-2020-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-UL-2020_7-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.swift.ac.uk/LVC/S190521g/">"GW trigger S190521g ('GW 190521')"</a>. <i><a href="/wiki/University_of_Leicester" title="University of Leicester">University of Leicester</a></i>. 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">26 June</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=University+of+Leicester&amp;rft.atitle=GW+trigger+S190521g+%28%27GW+190521%27%29&amp;rft.date=2020&amp;rft_id=https%3A%2F%2Fwww.swift.ac.uk%2FLVC%2FS190521g%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-LIGO-20200902-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-LIGO-20200902_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LIGO-20200902_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-LIGO-20200902_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFMartin2020" class="citation news cs1">Martin (2 September 2020). <a rel="nofollow" class="external text" href="https://www.ligo.org/science/Publication-GW190521/flyer.pdf">"GW190521: The Most Massive Black Hole collision Observed To Date"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/LIGO_Scientific_Collaboration" title="LIGO Scientific Collaboration">LIGO Scientific Collaboration</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=LIGO+Scientific+Collaboration&amp;rft.atitle=GW190521%3A+The+Most+Massive+Black+Hole+collision+Observed+To+Date&amp;rft.date=2020-09-02&amp;rft.au=Martin&amp;rft_id=https%3A%2F%2Fwww.ligo.org%2Fscience%2FPublication-GW190521%2Fflyer.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-NYT-20200903-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYT-20200903_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYT-20200903_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFOverbye2020" class="citation news cs1"><a href="/wiki/Dennis_Overbye" title="Dennis Overbye">Overbye, Dennis</a> (3 September 2020). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2020/09/02/science/black-hole-astronomy-physics.html">"These Black Holes Shouldn't Exist, but There They Are - On the far side of the universe, a collision of dark giants sheds light on an invisible process of cosmic growth"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200902193002/https://www.nytimes.com/2020/09/02/science/black-hole-astronomy-physics.html">Archived</a> from the original on 2 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=These+Black+Holes+Shouldn%27t+Exist%2C+but+There+They+Are+-+On+the+far+side+of+the+universe%2C+a+collision+of+dark+giants+sheds+light+on+an+invisible+process+of+cosmic+growth.&amp;rft.date=2020-09-03&amp;rft.aulast=Overbye&amp;rft.aufirst=Dennis&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2020%2F09%2F02%2Fscience%2Fblack-hole-astronomy-physics.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-NASA-20190521-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-NASA-20190521_12-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFMo2020" class="citation web cs1">Mo, Geoffrey (21 May 2020). <a rel="nofollow" class="external text" href="https://gcn.gsfc.nasa.gov/other/GW190521g.gcn3">"GCN Circular - Number: 24640 - LIGO/Virgo S190521g: Updated sky localization"</a>. <i><a href="/wiki/NASA" title="NASA">NASA</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NASA&amp;rft.atitle=GCN+Circular+-+Number%3A+24640+-+LIGO%2FVirgo+S190521g%3A+Updated+sky+localization&amp;rft.date=2020-05-21&amp;rft.aulast=Mo&amp;rft.aufirst=Geoffrey&amp;rft_id=https%3A%2F%2Fgcn.gsfc.nasa.gov%2Fother%2FGW190521g.gcn3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-PHYS-20200625-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-PHYS-20200625_13-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFGradute_Center,_CUNY2020" class="citation news cs1">Gradute Center, CUNY (25 June 2020). <a rel="nofollow" class="external text" href="https://phys.org/news/2020-06-black-hole-collision.html">"Black hole collision may have exploded with light"</a>. <i><a href="/wiki/Phys.org" title="Phys.org">Phys.org</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 June</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phys.org&amp;rft.atitle=Black+hole+collision+may+have+exploded+with+light&amp;rft.date=2020-06-25&amp;rft.au=Gradute+Center%2C+CUNY&amp;rft_id=https%3A%2F%2Fphys.org%2Fnews%2F2020-06-black-hole-collision.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-FRBS-20200903-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-FRBS-20200903_14-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFSiegel2020" class="citation news cs1">Siegel, Ethan (3 September 2020). <a rel="nofollow" class="external text" href="https://www.forbes.com/sites/startswithabang/2020/09/03/ligos-biggest-mass-merger-ever-foretells-a-black-hole-revolution/">"LIGO's Biggest Mass Merger Ever Foretells A Black Hole Revolution"</a>. <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Forbes&amp;rft.atitle=LIGO%27s+Biggest+Mass+Merger+Ever+Foretells+A+Black+Hole+Revolution&amp;rft.date=2020-09-03&amp;rft.aulast=Siegel&amp;rft.aufirst=Ethan&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fstartswithabang%2F2020%2F09%2F03%2Fligos-biggest-mass-merger-ever-foretells-a-black-hole-revolution%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite id="CITEREFMillerColbert2004" class="citation journal cs1">Miller, M. Coleman; Colbert, E. J. M. (2004). "Intermediate-Mass Black Holes". <i>International Journal of Modern Physics D</i>. <b>13</b> (1): 1. <a href="/wiki/ArXiv_(identifier)" class="mw-redirect" title="ArXiv (identifier)">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/astro-ph/0308402">astro-ph/0308402</a></span>. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2004IJMPD..13....1M">2004IJMPD..13....1M</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1142%2FS0218271804004426">10.1142/S0218271804004426</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:118959484">118959484</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Modern+Physics+D&amp;rft.atitle=Intermediate-Mass+Black+Holes&amp;rft.volume=13&amp;rft.issue=1&amp;rft.pages=1&amp;rft.date=2004&amp;rft_id=info%3Aarxiv%2Fastro-ph%2F0308402&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A118959484&amp;rft_id=info%3Adoi%2F10.1142%2FS0218271804004426&amp;rft_id=info%3Abibcode%2F2004IJMPD..13....1M&amp;rft.aulast=Miller&amp;rft.aufirst=M.+Coleman&amp;rft.au=Colbert%2C+E.+J.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-SD-20200626-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-SD-20200626_16-0">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.spacedaily.com/reports/Black_hole_collision_may_have_exploded_with_light_999.html">"Black hole collision may have exploded with light"</a>. <i><a href="/wiki/ScienceDaily" title="ScienceDaily">ScienceDaily</a></i>. 26 June 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">26 June</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ScienceDaily&amp;rft.atitle=Black+hole+collision+may+have+exploded+with+light&amp;rft.date=2020-06-26&amp;rft_id=https%3A%2F%2Fwww.spacedaily.com%2Freports%2FBlack_hole_collision_may_have_exploded_with_light_999.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-IFLS-20200625-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-IFLS-20200625_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IFLS-20200625_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-IFLS-20200625_17-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFCarpineti2020" class="citation news cs1">Carpineti, Alfredo (25 June 2020). <a rel="nofollow" class="external text" href="https://www.iflscience.com/space/astronomers-may-have-observed-the-first-flare-from-a-black-hole-collision/">"Astronomers May Have Observed The First Flare From A Black Hole Collision"</a>. <i><a href="/wiki/IFLScience" class="mw-redirect" title="IFLScience">IFLScience</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 June</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IFLScience&amp;rft.atitle=Astronomers+May+Have+Observed+The+First+Flare+From+A+Black+Hole+Collision&amp;rft.date=2020-06-25&amp;rft.aulast=Carpineti&amp;rft.aufirst=Alfredo&amp;rft_id=https%3A%2F%2Fwww.iflscience.com%2Fspace%2Fastronomers-may-have-observed-the-first-flare-from-a-black-hole-collision%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GW190521&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ligo.org/detections/GW190521.php">"GW190521"</a>. <a href="/wiki/LIGO" title="LIGO">LIGO</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GW190521&amp;rft.pub=LIGO&amp;rft_id=https%3A%2F%2Fwww.ligo.org%2Fdetections%2FGW190521.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGW190521" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=JtpO5S1XhG8"><span class="plainlinks">Video (1:14:15): Webinar GW190521</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a> (<a href="/wiki/LIGO_Scientific_Collaboration" title="LIGO Scientific Collaboration">LIGO</a>; 3 September 2020).</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=zRmwtL6lvIM"><span class="plainlinks">Video (00:30): Simulation of Black-Hole Merger</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a> (<a href="/wiki/Max_Planck_Institute_for_Gravitational_Physics" title="Max Planck Institute for Gravitational Physics">AEI</a>; 2 September 2020).</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Gravitational-wave_astronomy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Gravitational_waves" title="Template:Gravitational waves"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gravitational_waves" title="Template talk:Gravitational waves"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Gravitational_waves&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Gravitational-wave_astronomy" style="font-size:114%;margin:0 4em"><a href="/wiki/Gravitational-wave_astronomy" title="Gravitational-wave astronomy">Gravitational-wave astronomy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Gravitational_wave_*_Gravitational-wave_observatory">
+<ul><li><a href="/wiki/Gravitational_wave" title="Gravitational wave">Gravitational wave</a></li>
+<li><a href="/wiki/Gravitational-wave_observatory" title="Gravitational-wave observatory">Gravitational-wave observatory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Gravitational-wave_observatory" title="Gravitational-wave observatory">Detectors</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Gravitational-wave_observatory#Weber_bars" title="Gravitational-wave observatory">Resonant mass <br /> antennas</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=NAUTILUS&amp;action=edit&amp;redlink=1" class="new" title="NAUTILUS (page does not exist)">NAUTILUS</a> (<a href="/w/index.php?title=International_Gravitational_Event_Collaboration&amp;action=edit&amp;redlink=1" class="new" title="International Gravitational Event Collaboration (page does not exist)">IGEC</a>)</li>
+<li><a href="/wiki/AURIGA" title="AURIGA">AURIGA</a> (<a href="/w/index.php?title=International_Gravitational_Event_Collaboration&amp;action=edit&amp;redlink=1" class="new" title="International Gravitational Event Collaboration (page does not exist)">IGEC</a>)</li>
+<li><a href="/wiki/MiniGrail" title="MiniGrail">MiniGRAIL</a></li>
+<li><a href="/wiki/Mario_Schenberg_(Gravitational_Wave_Detector)" title="Mario Schenberg (Gravitational Wave Detector)">Mario Schenberg</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Past</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=EXPLORER&amp;action=edit&amp;redlink=1" class="new" title="EXPLORER (page does not exist)">EXPLORER</a> (<a href="/w/index.php?title=International_Gravitational_Event_Collaboration&amp;action=edit&amp;redlink=1" class="new" title="International Gravitational Event Collaboration (page does not exist)">IGEC</a>)</li>
+<li><a href="/wiki/Allegro_gravitational-wave_detector" title="Allegro gravitational-wave detector">ALLEGRO</a> (<a href="/w/index.php?title=International_Gravitational_Event_Collaboration&amp;action=edit&amp;redlink=1" class="new" title="International Gravitational Event Collaboration (page does not exist)">IGEC</a>)</li>
+<li><a href="/wiki/NIOBE" title="NIOBE">NIOBE</a> (<a href="/w/index.php?title=International_Gravitational_Event_Collaboration&amp;action=edit&amp;redlink=1" class="new" title="International Gravitational Event Collaboration (page does not exist)">IGEC</a>)</li>
+<li><a href="/w/index.php?title=Stanford_gravitational_wave_detector&amp;action=edit&amp;redlink=1" class="new" title="Stanford gravitational wave detector (page does not exist)">Stanford gravitational wave detector</a></li>
+<li><a href="/w/index.php?title=ALTAIR_(gravitational_wave_detector)&amp;action=edit&amp;redlink=1" class="new" title="ALTAIR (gravitational wave detector) (page does not exist)">ALTAIR</a></li>
+<li><a href="/w/index.php?title=GEOGRAV&amp;action=edit&amp;redlink=1" class="new" title="GEOGRAV (page does not exist)">GEOGRAV</a></li>
+<li><a href="/w/index.php?title=AGATA_(gravitational_wave_detector)&amp;action=edit&amp;redlink=1" class="new" title="AGATA (gravitational wave detector) (page does not exist)">AGATA</a></li>
+<li><a href="/wiki/Weber_bar" title="Weber bar">Weber bar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Proposed</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Torsion-bar_antenna" title="Torsion-bar antenna">TOBA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Past proposals</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/MiniGrail" title="MiniGrail">GRAIL</a> (downsized to <a href="/wiki/MiniGrail" title="MiniGrail">MiniGRAIL</a>)</li>
+<li><a href="/w/index.php?title=Truncated_Icosahedral_Gravitational_Wave_Antenna&amp;action=edit&amp;redlink=1" class="new" title="Truncated Icosahedral Gravitational Wave Antenna (page does not exist)">TIGA</a></li>
+<li><a href="/w/index.php?title=SFERA&amp;action=edit&amp;redlink=1" class="new" title="SFERA (page does not exist)">SFERA</a></li>
+<li><a href="/wiki/Mario_Schenberg_(Gravitational_Wave_Detector)" title="Mario Schenberg (Gravitational Wave Detector)">Graviton</a> (downsized to <a href="/wiki/Mario_Schenberg_(Gravitational_Wave_Detector)" title="Mario Schenberg (Gravitational Wave Detector)">Mario Schenberg</a>)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Ground-based<br /><a href="/wiki/Gravitational-wave_observatory#Interferometers" title="Gravitational-wave observatory">Interferometers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AIGO" title="AIGO">AIGO</a> (<a href="/wiki/ACIGA" title="ACIGA">ACIGA</a>)</li>
+<li><a href="/wiki/CLIO" title="CLIO">CLIO</a></li>
+<li><a href="/wiki/Holometer" title="Holometer">Fermilab holometer</a></li>
+<li><a href="/wiki/GEO600" title="GEO600">GEO600</a></li>
+<li><a href="/wiki/LIGO" title="LIGO">Advanced LIGO</a> (<a href="/wiki/LIGO_Scientific_Collaboration" title="LIGO Scientific Collaboration">LIGO Scientific Collaboration</a>)</li>
+<li><a href="/wiki/KAGRA" title="KAGRA">KAGRA</a></li>
+<li><a href="/wiki/Virgo_interferometer" title="Virgo interferometer">Advanced Virgo</a> (<a href="/wiki/European_Gravitational_Observatory" title="European Gravitational Observatory">European Gravitational Observatory</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Past</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/TAMA_300" title="TAMA 300">TAMA 300</a></li>
+<li><a href="/wiki/TAMA_300" title="TAMA 300">TAMA 20, later known as LISM</a></li>
+<li><a href="/w/index.php?title=TENKO-100&amp;action=edit&amp;redlink=1" class="new" title="TENKO-100 (page does not exist)">TENKO-100</a></li>
+<li><a href="/wiki/LIGO#Background" title="LIGO">Caltech 40m interferometer</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Planned</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Indian_Initiative_in_Gravitational-wave_Observations" title="Indian Initiative in Gravitational-wave Observations">INDIGO (LIGO-India)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Proposed</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/LIGO#Cosmic_Explorer" title="LIGO">Cosmic Explorer</a></li>
+<li><a href="/wiki/Einstein_Telescope" title="Einstein Telescope">Einstein Telescope</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Past proposals</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AIGO#LIGO-Australia" title="AIGO">AIGO (LIGO-Australia)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Space-based<br />interferometers</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Planned</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Laser_Interferometer_Space_Antenna" title="Laser Interferometer Space Antenna">LISA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Proposed</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Big_Bang_Observer" title="Big Bang Observer">Big Bang Observer</a></li>
+<li><a href="/wiki/Deci-hertz_Interferometer_Gravitational_wave_Observatory" title="Deci-hertz Interferometer Gravitational wave Observatory">DECIGO</a></li>
+<li><a href="/wiki/TianQin" title="TianQin">TianQin</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pulsar_timing_array" title="Pulsar timing array">Pulsar timing arrays</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Pulsar_Timing_Array" title="European Pulsar Timing Array">EPTA</a></li>
+<li><a href="/wiki/International_Pulsar_Timing_Array" title="International Pulsar Timing Array">IPTA</a></li>
+<li><a href="/wiki/North_American_Nanohertz_Observatory_for_Gravitational_Waves" title="North American Nanohertz Observatory for Gravitational Waves">NANOGrav</a></li>
+<li><a href="/wiki/Parkes_Observatory" title="Parkes Observatory">PPTA</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Data analysis</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Einstein@Home" title="Einstein@Home">Einstein@Home</a></li>
+<li><a href="/wiki/PyCBC" title="PyCBC">PyCBC</a></li>
+<li><a href="/wiki/Zooniverse" title="Zooniverse">Zooniverse</a>: Gravity Spy</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Observations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Events</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_gravitational_wave_observations" title="List of gravitational wave observations">List of observations</a></li>
+<li><a href="/wiki/First_observation_of_gravitational_waves" title="First observation of gravitational waves">First observation (GW150914)</a></li>
+<li><a href="/w/index.php?title=GW151012&amp;action=edit&amp;redlink=1" class="new" title="GW151012 (page does not exist)">GW151012</a></li>
+<li><a href="/wiki/GW151226" title="GW151226">GW151226</a></li>
+<li><a href="/wiki/GW170104" title="GW170104">GW170104</a></li>
+<li><a href="/wiki/GW170608" title="GW170608">GW170608</a></li>
+<li><a href="/w/index.php?title=GW170729&amp;action=edit&amp;redlink=1" class="new" title="GW170729 (page does not exist)">GW170729</a></li>
+<li><a href="/w/index.php?title=GW170809&amp;action=edit&amp;redlink=1" class="new" title="GW170809 (page does not exist)">GW170809</a></li>
+<li><a href="/wiki/GW170814" title="GW170814">GW170814</a></li>
+<li><a href="/wiki/GW170817" title="GW170817">GW170817</a> (first <a href="/wiki/Neutron_star_merger" title="Neutron star merger">neutron star merger</a>)</li>
+<li><a href="/w/index.php?title=GW170818&amp;action=edit&amp;redlink=1" class="new" title="GW170818 (page does not exist)">GW170818</a></li>
+<li><a href="/w/index.php?title=GW170823&amp;action=edit&amp;redlink=1" class="new" title="GW170823 (page does not exist)">GW170823</a></li>
+<li><a href="/wiki/GW190412" title="GW190412">GW190412</a></li>
+<li><a class="mw-selflink selflink">GW190521</a> (first-ever light from bh-bh merger)</li>
+<li><a href="/wiki/GW190814" title="GW190814">GW190814</a> (first-ever "mass gap" collision)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Methods</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Direct detection
+<ul><li><a href="/wiki/Interferometric_gravitational-wave_detector" title="Interferometric gravitational-wave detector">Laser interferometers</a></li>
+<li>Resonant mass detectors</li>
+<li><i>Proposed: <a href="/wiki/Atom_interferometer" title="Atom interferometer">Atom interferometers</a></i></li></ul></li>
+<li>Indirect detection
+<ul><li><a href="/wiki/Cosmic_microwave_background#B-modes" title="Cosmic microwave background">B-modes</a> of <a href="/wiki/Cosmic_microwave_background" title="Cosmic microwave background">CMB</a></li>
+<li><a href="/wiki/Pulsar_timing_array" title="Pulsar timing array">Pulsar timing array</a></li>
+<li><a href="/wiki/Binary_pulsar" title="Binary pulsar">Binary pulsar</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Theory</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_relativity" title="General relativity">General relativity</a></li>
+<li><a href="/wiki/Tests_of_general_relativity" title="Tests of general relativity">Tests of general relativity</a></li>
+<li><a href="/wiki/Alternatives_to_general_relativity" title="Alternatives to general relativity">Metric theories</a></li>
+<li><a href="/wiki/Graviton" title="Graviton">Graviton</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Effects / properties</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gravitational_wave#Effects_of_passing" title="Gravitational wave">Polarization</a></li>
+<li><a href="/wiki/Spin-flip" title="Spin-flip">Spin-flip</a></li>
+<li><a href="/wiki/Redshift" title="Redshift">Redshift</a></li>
+<li>Travel with <a href="/wiki/Speed_of_light" title="Speed of light">speed of light</a></li>
+<li>h strain</li>
+<li>Chirp signal (<a href="/wiki/Chirp_mass" title="Chirp mass">chirp mass</a>)</li>
+<li>Carried <a href="/wiki/Energy" title="Energy">energy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Types / sources</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gravitational_wave_background" title="Gravitational wave background">Stochastic</a>
+<ul><li><a href="/wiki/Inflation_(cosmology)" title="Inflation (cosmology)">Cosmic inflation</a>-<a href="/wiki/Quantum_fluctuation" title="Quantum fluctuation">quantum fluctuation</a></li>
+<li><a href="/wiki/Phase_transition" title="Phase transition">Phase transition</a></li></ul></li>
+<li>Binary inspiral
+<ul><li><a href="/wiki/Supermassive_black_hole" title="Supermassive black hole">Supermassive black holes</a></li>
+<li><a href="/wiki/Stellar_black_hole" title="Stellar black hole">Stellar black holes</a></li>
+<li><a href="/wiki/Neutron_star" title="Neutron star">Neutron stars</a></li>
+<li><a href="/wiki/Extreme_mass_ratio_inspiral" title="Extreme mass ratio inspiral">EMRI</a></li></ul></li>
+<li>Continuous
+<ul><li>Rotating neutron star</li></ul></li>
+<li>Burst
+<ul><li><a href="/wiki/Supernova" title="Supernova">Supernova</a> or from <i>unknown</i> sources</li></ul></li>
+<li>Hypothesis
+<ul><li>Colliding <a href="/wiki/Cosmic_string" title="Cosmic string">cosmic string</a> and <i>other unknown</i> sources</li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2019_in_space" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:2019_in_space" title="Template:2019 in space"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:2019_in_space" title="Template talk:2019 in space"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2019_in_space&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="2019_in_space" style="font-size:114%;margin:0 4em">2019 in space</div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="*_«_2018_2020_»">
+<ul><li><div style="float: left;"> «&#160;<a href="/wiki/Template:2018_in_space" title="Template:2018 in space">2018</a></div> <div style="float: right;"><a href="/wiki/Template:2020_in_space" title="Template:2020 in space">2020</a>&#160;»</div></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/2019_in_spaceflight" title="2019 in spaceflight">Space probe launches</a> <a href="/wiki/Category:Space_probes_launched_in_2019" title="Category:Space probes launched in 2019"><img alt="Space probes launched in 2019" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/15px-Folder_Hexagonal_Icon.svg.png" decoding="async" width="15" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/23px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/30px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beresheet" title="Beresheet">Beresheet</a> (lunar lander; Feb 2019)</li>
+<li><a href="/wiki/LightSail_2" class="mw-redirect" title="LightSail 2">LightSail 2</a> (solar sail demonstration; Jun 2019)</li>
+<li><a href="/wiki/Chandrayaan-2" title="Chandrayaan-2">Chandrayaan-2</a> / <a href="/wiki/Chandrayaan-2#Vikram_lander" title="Chandrayaan-2">Vikram</a> / <a href="/wiki/Pragyan_(rover)" title="Pragyan (rover)">Pragyan</a> (lunar obiter, lander and rover; Jul 2019)</li></ul>
+</div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px;padding-left: 0.5em;"><div><a href="/wiki/File:UltimaThule_CA06_color_20190516.png" class="image"><img alt="UltimaThule CA06 color 20190516.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/UltimaThule_CA06_color_20190516.png/150px-UltimaThule_CA06_color_20190516.png" decoding="async" width="150" height="105" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/UltimaThule_CA06_color_20190516.png/225px-UltimaThule_CA06_color_20190516.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/UltimaThule_CA06_color_20190516.png/300px-UltimaThule_CA06_color_20190516.png 2x" data-file-width="1407" data-file-height="985" /></a><br /><a href="/wiki/File:Black_hole_-_Messier_87.jpg" class="image"><img alt="Black hole - Messier 87.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Black_hole_-_Messier_87.jpg/150px-Black_hole_-_Messier_87.jpg" decoding="async" width="150" height="87" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Black_hole_-_Messier_87.jpg/225px-Black_hole_-_Messier_87.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Black_hole_-_Messier_87.jpg/300px-Black_hole_-_Messier_87.jpg 2x" data-file-width="7416" data-file-height="4320" /></a><br /><a href="/wiki/File:Esa-hubble-k2-18a_impression.jpg" class="image"><img alt="Esa-hubble-k2-18a impression.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Esa-hubble-k2-18a_impression.jpg/150px-Esa-hubble-k2-18a_impression.jpg" decoding="async" width="150" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Esa-hubble-k2-18a_impression.jpg/225px-Esa-hubble-k2-18a_impression.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Esa-hubble-k2-18a_impression.jpg/300px-Esa-hubble-k2-18a_impression.jpg 2x" data-file-width="6000" data-file-height="3500" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Impact_event" title="Impact event">Impact events</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kamchatka_meteor" title="Kamchatka meteor">Kamchatka meteor</a> (announced)</li>
+<li><a href="/wiki/2019_MO" title="2019 MO">2019 MO</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Selected <a href="/wiki/Near-Earth_object" title="Near-Earth object">NEOs</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_asteroid_close_approaches_to_Earth_in_2019" title="List of asteroid close approaches to Earth in 2019">Asteroid close approaches</a></li>
+<li><span class="nowrap"><a href="/wiki/2018_XB4" title="2018 XB4">2018 XB<span style="position: relative; top: 0.3em;"><span style="font-size:80%;">4</span></span></a></span></li>
+<li><span class="nowrap"><a href="/wiki/2019_AS5" title="2019 AS5">2019 AS<span style="position: relative; top: 0.3em;"><span style="font-size:80%;">5</span></span></a></span></li>
+<li><span class="nowrap"><a href="/wiki/2016_AZ8" title="2016 AZ8">2016 AZ<span style="position: relative; top: 0.3em;"><span style="font-size:80%;">8</span></span></a></span></li>
+<li><a href="/wiki/66391_Moshup" title="66391 Moshup">66391 Moshup</a></li>
+<li><a href="/wiki/2019_OK" title="2019 OK">2019 OK</a></li>
+<li><a href="/wiki/1620_Geographos" title="1620 Geographos">1620 Geographos</a></li>
+<li><span class="nowrap"><a href="/wiki/2006_QV89" title="2006 QV89">2006 QV<span style="position: relative; top: 0.3em;"><span style="font-size:80%;">89</span></span></a></span></li>
+<li><a href="/wiki/2100_Ra-Shalom" title="2100 Ra-Shalom">2100 Ra-Shalom</a></li>
+<li><span class="nowrap"><a href="/wiki/2019_SU3" title="2019 SU3">2019 SU<span style="position: relative; top: 0.3em;"><span style="font-size:80%;">3</span></span></a></span></li>
+<li><span class="nowrap"><a href="/wiki/2019_TA7" title="2019 TA7">2019 TA<span style="position: relative; top: 0.3em;"><span style="font-size:80%;">7</span></span></a></span></li>
+<li><span class="nowrap"><a href="/wiki/2019_UN13" title="2019 UN13">2019 UN<span style="position: relative; top: 0.3em;"><span style="font-size:80%;">13</span></span></a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_exoplanets_discovered_in_2019" title="List of exoplanets discovered in 2019">Exoplanets</a> <a href="/wiki/Category:Exoplanets_discovered_in_2019" title="Category:Exoplanets discovered in 2019"><img alt="Category of exoplanets discovered in 2019" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/15px-Folder_Hexagonal_Icon.svg.png" decoding="async" width="15" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/23px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/30px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AD_Leonis" title="AD Leonis">AD Leonis</a> b</li>
+<li><a href="/wiki/Beta_Pictoris_c" title="Beta Pictoris c">Beta Pictoris c</a></li>
+<li><a href="/wiki/DS_Tucanae" title="DS Tucanae">DS Tucanae</a> b</li>
+<li><a href="/wiki/Gliese_251" title="Gliese 251">Gliese 251</a> c</li>
+<li><a href="/wiki/GJ_357_d" title="GJ 357 d">Gliese 357 d</a></li>
+<li><a href="/wiki/Gliese_588" title="Gliese 588">Gliese 588</a> (b&#160;<b>&#183;</b>&#32;c)</li>
+<li><a href="/wiki/Gliese_687" title="Gliese 687">Gliese 687</a> c</li>
+<li><a href="/wiki/Gliese_555" title="Gliese 555">Gliese 555</a> b</li>
+<li><a href="/wiki/Gliese_754" title="Gliese 754">Gliese 754</a> b</li>
+<li><a href="/wiki/Gliese_784" title="Gliese 784">Gliese 784</a> b</li>
+<li><a href="/wiki/HR_5183_b" title="HR 5183 b">HR 5183 b</a></li>
+<li><a href="/wiki/Kepler-47d" class="mw-redirect" title="Kepler-47d">Kepler-47d</a></li>
+<li><a href="/wiki/K2-288Bb" title="K2-288Bb">K2-288Bb</a></li>
+<li><a href="/wiki/L_1159-16" title="L 1159-16">L 1159-16</a> (b&#160;<b>&#183;</b>&#32;c&#160;<b>&#183;</b>&#32;d)</li>
+<li><a href="/wiki/LP_816-60" title="LP 816-60">LP 816-60</a> b</li>
+<li><a href="/wiki/LTT_1445" title="LTT 1445">LTT 1445</a> Ab</li>
+<li><a href="/wiki/Luyten%27s_Star" title="Luyten&#39;s Star">Luyten's Star</a> (d&#160;<b>&#183;</b>&#32;e)</li>
+<li><a href="/wiki/PDS_70" title="PDS 70">PDS 70c</a></li>
+<li><a href="/wiki/Proxima_Centauri_c" title="Proxima Centauri c">Proxima Centauri c</a></li>
+<li><a href="/wiki/Struve_2398" title="Struve 2398">Struve 2398</a> (Bb&#160;<b>&#183;</b>&#32;Bc)</li>
+<li><a href="/wiki/Tau_Ceti" title="Tau Ceti">Tau Ceti</a> i <span style="font-size:85%;">(hypothesized)</span></li>
+<li><a href="/wiki/Teegarden%27s_Star" title="Teegarden&#39;s Star">Teegarden's Star</a> (<a href="/wiki/Teegarden%27s_Star_b" title="Teegarden&#39;s Star b">b</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Teegarden%27s_Star_c" title="Teegarden&#39;s Star c">c</a>)</li>
+<li><a href="/wiki/V1298_Tauri" title="V1298 Tauri">V1298 Tauri</a> (b&#160;<b>&#183;</b>&#32;c&#160;<b>&#183;</b>&#32;d&#160;<b>&#183;</b>&#32;e)</li>
+<li><a href="/wiki/Wolf_359" title="Wolf 359">Wolf 359</a> (b&#160;<b>&#183;</b>&#32;c)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Discoveries</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/2019_AQ3" title="2019 AQ3">2019 AQ<span style="position: relative; top: 0.3em;"><span style="font-size:80%;">3</span></span></a></span></li>
+<li><a href="/wiki/ASASSN-19bt" title="ASASSN-19bt">ASASSN-19bt</a></li>
+<li><a href="/wiki/GRB_190114C" title="GRB 190114C">GRB 190114C</a></li>
+<li><a href="/wiki/EPIC_204376071" title="EPIC 204376071">EPIC 204376071</a></li>
+<li><a href="/wiki/FarFarOut" title="FarFarOut">FarFarOut</a></li>
+<li><a href="/wiki/GW190412" title="GW190412">GW190412</a></li>
+<li><a href="/wiki/GW190521g" class="mw-redirect" title="GW190521g">GW190521g</a> (first-ever light from bh-bh merger)</li>
+<li><a href="/wiki/GW190814" title="GW190814">GW190814</a> (first-ever "mass gap" collision)</li>
+<li><a href="/wiki/K2-18b" title="K2-18b">K2-18b</a> water vapor</li>
+<li><a href="/wiki/Messier_87" title="Messier 87">Messier 87</a> <a href="/wiki/Supermassive_black_hole" title="Supermassive black hole">supermassive black hole</a> <a href="/wiki/M87*" class="mw-redirect" title="M87*">M87*</a> imaged</li>
+<li><a href="/w/index.php?title=PSR_J0030%2B0451&amp;action=edit&amp;redlink=1" class="new" title="PSR J0030+0451 (page does not exist)">PSR J0030+0451</a> mapped</li>
+<li><a href="/wiki/PSR_J0740%2B6620" title="PSR J0740+6620">PSR J0740+6620</a></li>
+<li><a href="/wiki/S5-HVS1" title="S5-HVS1">S5-HVS1</a></li>
+<li><a href="/wiki/2I/Borisov" title="2I/Borisov">2I/Borisov</a></li>
+<li>20&#160;<a href="/wiki/Moons_of_Saturn" title="Moons of Saturn">moons of Saturn</a></li>
+<li><a href="/wiki/WD_0145%2B234" title="WD 0145+234">WD 0145+234</a> detection of <a href="/wiki/Exoasteroid" class="mw-redirect" title="Exoasteroid">exoasteroid</a> disruption</li>
+<li><a href="/wiki/WD_J0914%2B1914" title="WD J0914+1914">WD J0914+1914</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Comets <a href="/wiki/Category:Comets_in_2019" title="Category:Comets in 2019"><img alt="Category of Comets in 2019" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/15px-Folder_Hexagonal_Icon.svg.png" decoding="async" width="15" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/23px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/30px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/289P/Blanpain" title="289P/Blanpain">289P/Blanpain</a></li>
+<li><a href="/wiki/78P/Gehrels" title="78P/Gehrels">78P/Gehrels</a></li>
+<li><a href="/wiki/168P/Hergenrother" title="168P/Hergenrother">168P/Hergenrother</a></li>
+<li><a href="/wiki/163P/NEAT" title="163P/NEAT">163P/NEAT</a></li>
+<li><a href="/wiki/138P/Shoemaker%E2%80%93Levy" title="138P/Shoemaker–Levy">138P/Shoemaker–Levy</a></li>
+<li><a href="/wiki/171P/Spahr" title="171P/Spahr">171P/Spahr</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Space exploration</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/New_Horizons" title="New Horizons">New Horizons</a></i> (encounter with <a href="/wiki/486958_Arrokoth" title="486958 Arrokoth">486958 Arrokoth</a>; Dec 2018 / Jan 2019)</li>
+<li><i><a href="/wiki/Chang%27e_4" title="Chang&#39;e 4">Chang'e 4</a></i> / <i><a href="/wiki/Yutu-2" title="Yutu-2">Yutu-2</a></i> (landing on the <a href="/wiki/Far_side_of_the_Moon" title="Far side of the Moon">far side of the Moon</a>; Jan)</li>
+<li><i><a href="/wiki/Opportunity_(rover)" title="Opportunity (rover)">Opportunity</a></i> (end of mission; Aug 2018 / Feb 2019)</li>
+<li><i><a href="/wiki/Hayabusa2" title="Hayabusa2">Hayabusa2</a></i> (departure from <a href="/wiki/162173_Ryugu" title="162173 Ryugu">162173 Ryugu</a>; Dec)</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:2018_in_space" title="Category:2018 in space">Category:2018 in space</a> — <b><a href="/wiki/Category:2019_in_space" title="Category:2019 in space">Category:2019 in space</a></b> — <a href="/wiki/Category:2020_in_space" title="Category:2020 in space">Category:2020 in space</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Crab_Nebula.jpg" class="image"><img alt="Crab Nebula.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/21px-Crab_Nebula.jpg" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/32px-Crab_Nebula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/42px-Crab_Nebula.jpg 2x" data-file-width="3864" data-file-height="3864" /></a></span><a href="/wiki/Portal:Astronomy" title="Portal:Astronomy">Astronomy portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg" class="image"><img alt="Stylised atom with three Bohr model orbits and stylised nucleus.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/18px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png" decoding="async" width="18" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/28px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/37px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 2x" data-file-width="530" data-file-height="600" /></a></span><a href="/wiki/Portal:Physics" title="Portal:Physics">Physics portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Earth-moon.jpg" class="image"><img alt="Earth-moon.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/24px-Earth-moon.jpg" decoding="async" width="24" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/36px-Earth-moon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/48px-Earth-moon.jpg 2x" data-file-width="3000" data-file-height="2400" /></a></span><a href="/wiki/Portal:Space" class="mw-redirect" title="Portal:Space">Space portal</a></span></li></ul></div>
+<p><span id="coordinates" class="plainlinks nourlexpansion"><a href="/wiki/Celestial_coordinate_system" title="Celestial coordinate system">Coordinates</a>: <img alt="Sky map" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Celestia.png/20px-Celestia.png" decoding="async" title="Sky map" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Celestia.png/30px-Celestia.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Celestia.png/40px-Celestia.png 2x" data-file-width="128" data-file-height="128" /> <a rel="nofollow" class="external text" href="http://www.wikisky.org/?ra=12.828416666667&amp;de=-34.824722222222&amp;zoom=8&amp;show_grid=1&amp;show_constellation_lines=1&amp;show_constellation_boundaries=1&amp;show_const_names=1&amp;show_galaxies=1&amp;img_source=IMG_all">12<sup>h</sup> 49<sup>m</sup> 42.3<sup>s</sup>, −34° 49′ 29″</a></span>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2309
+Cached time: 20200908143526
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.592 seconds
+Real time usage: 0.836 seconds
+Preprocessor visited node count: 2758/1000000
+Post‐expand include size: 136124/2097152 bytes
+Template argument size: 5264/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 69486/5000000 bytes
+Lua time usage: 0.312/10.000 seconds
+Lua memory usage: 8.73 MB/50 MB
+Number of Wikibase entities loaded: 7/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  716.090      1 -total
+ 36.02%  257.939      1 Template:Infobox_astronomical_event
+ 35.12%  251.510      1 Template:Infobox
+ 23.49%  168.186      2 Template:Reflist
+ 12.52%   89.680      3 Template:Cite_web
+ 11.82%   84.611      7 Template:Navbox
+ 10.48%   75.078      1 Template:Short_description
+  6.53%   46.732      1 Template:2019_in_space
+  6.12%   43.847      1 Template:Pagetype
+  5.11%   36.604      9 Template:Cite_news
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:64382557-0!canonical and timestamp 20200908143526 and revision id 977328399
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=GW190521&amp;oldid=977328399">https://en.wikipedia.org/w/index.php?title=GW190521&amp;oldid=977328399</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2019_in_science" title="Category:2019 in science">2019 in science</a></li><li><a href="/wiki/Category:2019_in_space" title="Category:2019 in space">2019 in space</a></li><li><a href="/wiki/Category:Black_holes" title="Category:Black holes">Black holes</a></li><li><a href="/wiki/Category:Gravitational_waves" title="Category:Gravitational waves">Gravitational waves</a></li><li><a href="/wiki/Category:May_2019_events" title="Category:May 2019 events">May 2019 events</a></li><li><a href="/wiki/Category:Theory_of_relativity" title="Category:Theory of relativity">Theory of relativity</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2020" title="Category:Use dmy dates from June 2020">Use dmy dates from June 2020</a></li><li><a href="/wiki/Category:Articles_using_Infobox_astronomical_event_using_locally_defined_parameters" title="Category:Articles using Infobox astronomical event using locally defined parameters">Articles using Infobox astronomical event using locally defined parameters</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=GW190521" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=GW190521" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/GW190521" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:GW190521" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/GW190521">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=GW190521&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=GW190521&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/GW190521" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/GW190521" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=GW190521&amp;oldid=977328399" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=GW190521&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=GW190521&amp;id=977328399&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q96777153" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=GW190521&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=GW190521&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:GW190521" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/GW190521" title="GW190521 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/GW190521" title="GW190521 – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/GW190521" title="GW190521 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/GW190521" title="GW190521 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/GW190521" title="GW190521 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/GW190521" title="GW190521 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/GW190521" title="GW190521 – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/GW190521" title="GW190521 – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q96777153#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 8 September 2020, at 06:25<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=GW190521&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.592","walltime":"0.836","ppvisitednodes":{"value":2758,"limit":1000000},"postexpandincludesize":{"value":136124,"limit":2097152},"templateargumentsize":{"value":5264,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":69486,"limit":5000000},"entityaccesscount":{"value":7,"limit":400},"timingprofile":["100.00%  716.090      1 -total"," 36.02%  257.939      1 Template:Infobox_astronomical_event"," 35.12%  251.510      1 Template:Infobox"," 23.49%  168.186      2 Template:Reflist"," 12.52%   89.680      3 Template:Cite_web"," 11.82%   84.611      7 Template:Navbox"," 10.48%   75.078      1 Template:Short_description","  6.53%   46.732      1 Template:2019_in_space","  6.12%   43.847      1 Template:Pagetype","  5.11%   36.604      9 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.312","limit":"10.000"},"limitreport-memusage":{"value":9149528,"limit":52428800}},"cachereport":{"origin":"mw2309","timestamp":"20200908143526","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"GW190521","url":"https:\/\/en.wikipedia.org\/wiki\/GW190521","sameAs":"http:\/\/www.wikidata.org\/entity\/Q96777153","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q96777153","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2020-06-26T02:01:37Z","dateModified":"2020-09-08T06:25:26Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/27\/PhysRevLett.125.101102_Fig1.png","headline":"gravitational wave signal"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":148,"wgHostname":"mw2231"});});</script>
+</body></html>

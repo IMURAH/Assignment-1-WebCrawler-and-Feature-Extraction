@@ -1,0 +1,1891 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>2020 Montenegrin parliamentary election - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b513a982-fab5-4e30-a817-e510a7073ef5","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"2020_Montenegrin_parliamentary_election","wgTitle":"2020 Montenegrin parliamentary election","wgCurRevisionId":977386509,"wgRevisionId":977386509,"wgArticleId":48960538,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Serbian-language sources (sr)","CS1 maint: unrecognized language","Articles with short description","Short description matches Wikidata","Use dmy dates from August 2020","Pages using deprecated image syntax",
+"Pages using bar box without float left or float right","2020 elections in Europe","2020 in Montenegro","August 2020 events in Europe","Elections in Montenegro"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"2020_Montenegrin_parliamentary_election","wgRelevantArticleId":48960538,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":
+"Q48834913"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.gallery","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2020_Montenegrin_parliamentary_election_map.svg/1200px-2020_Montenegrin_parliamentary_election_map.svg.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/2020_Montenegrin_parliamentary_election"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/2020_Montenegrin_parliamentary_election"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-2020_Montenegrin_parliamentary_election rootpage-2020_Montenegrin_parliamentary_election skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">2020 Montenegrin parliamentary election</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Election in Montenegro</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox vevent" style="width:22em;line-height: 1.5em; max-width: 32em; min-width:22em; width:auto;"><caption><span class="nowrap">2020 Montenegrin parliamentary election</span></caption><tbody><tr><td colspan="2" style="text-align:center;line-height:130%;"><span class="flagicon"><a href="/wiki/Montenegro" title="Montenegro"><img alt="Montenegro" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/50px-Flag_of_Montenegro.svg.png" decoding="async" width="50" height="25" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/75px-Flag_of_Montenegro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/100px-Flag_of_Montenegro.svg.png 2x" data-file-width="640" data-file-height="320" /></a></span><hr /></td></tr><tr><td colspan="2" style="text-align:center;line-height:130%;"><table style="width:100%; margin:1px;"><tbody><tr>
+<td style="text-align:left; vertical-align:middle; padding:0 0.5em 0 0;width:20%;" class="noprint">&#8592;&#160;<a href="/wiki/2016_Montenegrin_parliamentary_election" title="2016 Montenegrin parliamentary election">2016</a></td>
+<td style="text-align:center; vertical-align:middle;; padding:0 1px;width:60%;" class=""><b>30 August 2020</b></td>
+<td style="text-align:right; vertical-align:middle;; padding:0 0 0 0.5em;width:20%;" class="noprint">2024&#160;&#8594;</td>
+</tr></tbody></table></td></tr><tr><th colspan="2" style="text-align:center;font-weight:normal;"><hr />All 81 seats in the <a href="/wiki/Parliament_of_Montenegro" title="Parliament of Montenegro">Parliament</a><br />41 seats needed for a majority</th></tr><tr><th scope="row" style="width:5em;white-space:nowrap;">Turnout</th><td style="text-align:center;">76.65% <img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 3.32 pp</td></tr><tr><td colspan="2" style="text-align:center;padding:0 3px">
+<table class="wikitable" style="width: 100%; margin:0;">
+
+<tbody><tr class="nowrap">
+<th>Party
+</th>
+<th>Leader
+</th>
+<th><abbr title="Percentage vote share">%</abbr>
+</th>
+<th>Seats
+</th>
+<th><abbr title="Seat difference">±</abbr>
+</th></tr>
+
+<tr>
+<th colspan="5">Final results
+</th></tr>
+<tr>
+<th scope="row" style="background-color: transparent; border-left: 4px solid #F6931D; font-weight: normal; text-align: left;"><a href="/wiki/Democratic_Party_of_Socialists_of_Montenegro" title="Democratic Party of Socialists of Montenegro">DPS</a>
+</th>
+<td><a href="/wiki/Milo_%C4%90ukanovi%C4%87" title="Milo Đukanović">Milo Đukanović</a>&#32;
+</td>
+<td style="text-align: right;">35.06&#32;
+</td>
+<td style="text-align: right;">30&#32;
+</td>
+<td style="text-align: right; white-space: nowrap; color: red;">-6
+</td></tr>
+<tr style="background: #f2f2f2;">
+<th scope="row" style="background-color: transparent; border-left: 4px solid #4682B4; font-weight: normal; text-align: left;"><a href="/wiki/For_the_Future_of_Montenegro" title="For the Future of Montenegro">ZBCG</a>
+</th>
+<td><a href="/wiki/Zdravko_Krivokapi%C4%87" title="Zdravko Krivokapić">Zdravko Krivokapić</a>&#32;
+</td>
+<td style="text-align: right;">32.55&#32;
+</td>
+<td style="text-align: right;">27&#32;
+</td>
+<td style="text-align: right; white-space: nowrap; color: green;">+4
+</td></tr>
+<tr>
+<th scope="row" style="background-color: transparent; border-left: 4px solid #ffae42; font-weight: normal; text-align: left;"><a href="/wiki/Peace_is_Our_Nation" title="Peace is Our Nation">MNN</a>
+</th>
+<td><a href="/wiki/Aleksa_Be%C4%8Di%C4%87" title="Aleksa Bečić">Aleksa Bečić</a>&#32;
+</td>
+<td style="text-align: right;">12.54&#32;
+</td>
+<td style="text-align: right;">10&#32;
+</td>
+<td style="text-align: right; white-space: nowrap;">0
+</td></tr>
+<tr style="background: #f2f2f2;">
+<th scope="row" style="background-color: transparent; border-left: 4px solid #274B75; font-weight: normal; text-align: left;"><a href="/wiki/United_Reform_Action" title="United Reform Action">URA</a>
+</th>
+<td><a href="/wiki/Dritan_Abazovi%C4%87" title="Dritan Abazović">Dritan Abazović</a>&#32;
+</td>
+<td style="text-align: right;">5.53&#32;
+</td>
+<td style="text-align: right;">4&#32;
+</td>
+<td style="text-align: right; white-space: nowrap; color: green;">+2
+</td></tr>
+<tr>
+<th scope="row" style="background-color: transparent; border-left: 4px solid #F08080; font-weight: normal; text-align: left;"><a href="/wiki/Social_Democrats_of_Montenegro" title="Social Democrats of Montenegro">SD</a>
+</th>
+<td><a href="/wiki/Ivan_Brajovi%C4%87" title="Ivan Brajović">Ivan Brajović</a>&#32;
+</td>
+<td style="text-align: right;">4.10&#32;
+</td>
+<td style="text-align: right;">3&#32;
+</td>
+<td style="text-align: right; white-space: nowrap; color: green;">+1
+</td></tr>
+<tr style="background: #f2f2f2;">
+<th scope="row" style="background-color: transparent; border-left: 4px solid #32CD32; font-weight: normal; text-align: left;"><a href="/wiki/Bosniak_Party" title="Bosniak Party">BS</a>
+</th>
+<td><a href="/wiki/Rafet_Husovi%C4%87" title="Rafet Husović">Rafet Husović</a>&#32;
+</td>
+<td style="text-align: right;">3.98&#32;
+</td>
+<td style="text-align: right;">3&#32;
+</td>
+<td style="text-align: right; white-space: nowrap; color: green;">+1
+</td></tr>
+<tr>
+<th scope="row" style="background-color: transparent; border-left: 4px solid #DC143C; font-weight: normal; text-align: left;"><a href="/wiki/Social_Democratic_Party_of_Montenegro" title="Social Democratic Party of Montenegro">SDP</a>
+</th>
+<td><a href="/wiki/Draginja_Vuksanovi%C4%87" title="Draginja Vuksanović">Draginja Vuksanović</a>&#32;
+</td>
+<td style="text-align: right;">3.14&#32;
+</td>
+<td style="text-align: right;">2&#32;
+</td>
+<td style="text-align: right; white-space: nowrap; color: red;">-2
+</td></tr>
+<tr style="background: #f2f2f2;">
+<th scope="row" style="background-color: transparent; border-left: 4px solid #1E90FF; font-weight: normal; text-align: left;"><a href="/wiki/Albanian_List_(Montenegro)" title="Albanian List (Montenegro)">AL</a>
+</th>
+<td><a href="/wiki/Nik_Gjeloshaj" title="Nik Gjeloshaj">Nik Gjeloshaj</a>&#32;
+</td>
+<td style="text-align: right;">1.58&#32;
+</td>
+<td style="text-align: right;">1&#32;
+</td>
+<td style="text-align: right; white-space: nowrap;">0
+</td></tr>
+<tr>
+<th scope="row" style="background-color: transparent; border-left: 4px solid #8B0000; font-weight: normal; text-align: left;"><a href="/wiki/Albanian_Coalition" title="Albanian Coalition">AK</a>
+</th>
+<td><a href="https://sq.wikipedia.org/wiki/Fatmir_Gjeka" class="extiw" title="sq:Fatmir Gjeka">Fatmir Gjeka</a>&#32;
+</td>
+<td style="text-align: right;">1.14&#32;
+</td>
+<td style="text-align: right;">1&#32;
+</td>
+<td style="text-align: right; white-space: nowrap; color: green;">+1
+</td></tr></tbody></table>
+<div class="nowrap" style="width:100%;font-style: italic; padding:0.3em;">This lists parties that won seats. See the complete results <a href="#Results">below</a>.</div></td></tr><tr><td colspan="2" style="text-align:center;border-top:1px #aaa solid; padding:0.3em 0.5em;"><a href="/wiki/File:2020_Montenegrin_parliamentary_election_map.svg" class="image"><img alt="2020 Montenegrin parliamentary election map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2020_Montenegrin_parliamentary_election_map.svg/250px-2020_Montenegrin_parliamentary_election_map.svg.png" decoding="async" width="250" height="302" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2020_Montenegrin_parliamentary_election_map.svg/375px-2020_Montenegrin_parliamentary_election_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2020_Montenegrin_parliamentary_election_map.svg/500px-2020_Montenegrin_parliamentary_election_map.svg.png 2x" data-file-width="1063" data-file-height="1285" /></a><div>Results by each municipality;<br /><span style="background-color:orange; color:black; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/Democratic_Party_of_Socialists" class="mw-redirect" title="Democratic Party of Socialists">DPS</a> <span style="background-color:#4682B4; color:black; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/For_the_Future_of_Montenegro" title="For the Future of Montenegro">ZBCG</a> <span style="background-color:#32CD32; color:black; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/Bosniak_Party" title="Bosniak Party">BS</a> <span style="background-color:#1E90FF; color:black; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/Albanian_List_(Montenegro)" title="Albanian List (Montenegro)">AL</a><br /><small>Saturation of colour denotes strength of vote</small></div></td></tr><tr><td colspan="2" style="text-align:center;border-top:1px #aaa solid; padding: 0.3em 0.5em;"><table style="width: 100%; border-spacing: 0;">
+<tbody><tr>
+  <th scope="col" style="width:50%;"><a href="/wiki/Prime_Minister_of_Montenegro" title="Prime Minister of Montenegro">Prime Minister</a> before</th>
+  <th scope="col" style="width:50%; text-align:right;">Prime Minister after</th>
+ </tr><tr>
+  <td style="width: 50%;"><a href="/wiki/Du%C5%A1ko_Markovi%C4%87" title="Duško Marković">Duško Marković</a><br /><a href="/wiki/Democratic_Party_of_Socialists_of_Montenegro" title="Democratic Party of Socialists of Montenegro">DPS</a></td>
+  <td style="text-align:right; width: 50%;">TBA</td>
+ </tr>
+ </tbody></table></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Parliamentary elections</b> were held in <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a> on 30 August 2020.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> They were the eleventh <a href="/wiki/General_election" title="General election">parliamentary elections</a> since the first multi-party elections in&#160;1990, and the fifth in Montenegro since <a href="/wiki/2006_Montenegrin_independence_referendum" title="2006 Montenegrin independence referendum">gaining its independence in 2006</a>. Eighty-one members of the&#160;<a href="/wiki/Parliament_of_Montenegro" title="Parliament of Montenegro">Montenegrin parliament</a> were elected. Elections were organized in special conditions, due to the <a href="/wiki/COVID-19_pandemic_in_Montenegro" title="COVID-19 pandemic in Montenegro">COVID-19 pandemic in Montenegro</a>. The parliamentary election was also held simultaneously with the <a href="/wiki/2020_Montenegrin_municipal_elections" title="2020 Montenegrin municipal elections">local elections in five municipalities</a>.
+</p><p>The period before the election was marked by the high polarization of the electorate. Several corruption scandals of the ruling party triggered <a href="/wiki/2019_Montenegrin_anti-corruption_protests" title="2019 Montenegrin anti-corruption protests">2019 anti-government protests</a>, while a controversial <a href="/wiki/Freedom_of_religion_in_Montenegro" title="Freedom of religion in Montenegro">religion law</a> sparked another <a href="/wiki/2019%E2%80%932020_Clerical_protests_in_Montenegro" class="mw-redirect" title="2019–2020 Clerical protests in Montenegro">wave of protests</a>. 
+</p><p><a href="/wiki/Election_monitoring" title="Election monitoring">Election observers</a> <a href="/wiki/OSCE" class="mw-redirect" title="OSCE">Organization for Security and Co-operation in Europe</a> stated: "Abuse of state resources gave the <a href="/wiki/Ruling_party" title="Ruling party">ruling party</a> an unfair advantage", and said that although the elections were competitive, the governing party also benefited from a lack of <a href="/wiki/Independent_media" title="Independent media">independent media</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The election resulted in a victory for the <a href="/wiki/Parliamentary_opposition" title="Parliamentary opposition">opposition parties</a> and the fall from power of the ruling <a href="/wiki/Democratic_Party_of_Socialists" class="mw-redirect" title="Democratic Party of Socialists">DPS</a>, which had ruled the country since the introduction of the <a href="/wiki/Multi-party_system" title="Multi-party system">multi-party system</a> in 1990. On 31 August, the leaders of three opposition coalitions, <a href="/wiki/For_the_Future_of_Montenegro" title="For the Future of Montenegro">For the Future of Montenegro</a>, <a href="/wiki/Peace_is_Our_Nation" title="Peace is Our Nation">Peace is Our Nation</a> and <a href="/wiki/United_Reform_Action" title="United Reform Action">In Black and White</a>, agreed to form an <a href="/wiki/Technocracy" title="Technocracy">expert government</a>, and to continue to work on the <a href="/wiki/Accession_of_Montenegro_to_the_European_Union" title="Accession of Montenegro to the European Union">European Union accession process</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Electoral_system"><span class="tocnumber">2</span> <span class="toctext">Electoral system</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Campaign"><span class="tocnumber">3</span> <span class="toctext">Campaign</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Electoral_lists"><span class="tocnumber">3.1</span> <span class="toctext">Electoral lists</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Opinion_polls"><span class="tocnumber">4</span> <span class="toctext">Opinion polls</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Results"><span class="tocnumber">5</span> <span class="toctext">Results</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Vote_share"><span class="tocnumber">5.1</span> <span class="toctext">Vote share</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Seat_totals"><span class="tocnumber">5.2</span> <span class="toctext">Seat totals</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Aftermath"><span class="tocnumber">6</span> <span class="toctext">Aftermath</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Reactions"><span class="tocnumber">6.1</span> <span class="toctext">Reactions</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Incidents"><span class="tocnumber">6.2</span> <span class="toctext">Incidents</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Following the <a href="/wiki/2016_Montenegrin_parliamentary_election" title="2016 Montenegrin parliamentary election">2016 parliamentary elections</a>, the entire <a href="/wiki/Opposition_(Montenegro)#10th_assembly" title="Opposition (Montenegro)">opposition</a> started a collective <a href="/wiki/Boycott" title="Boycott">boycott</a> of all parliamentary sittings. In January 2017, 39 of the 81 MPs were boycotting parliament, requesting early elections to be held no later than 2018, when the next <a href="/wiki/2018_Montenegrin_presidential_election" title="2018 Montenegrin presidential election">presidential elections</a> were scheduled.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> 
+</p><p>In 2016, then Vice President of the ruling <a href="/wiki/Democratic_Party_of_Socialists" class="mw-redirect" title="Democratic Party of Socialists">DPS</a> <a href="/wiki/Svetozar_Marovi%C4%87" title="Svetozar Marović">Svetozar Marović</a> was arrested in connection to a long-running corruption case concerning his hometown of <a href="/wiki/Budva" title="Budva">Budva</a>; the Montenegrin prosecutor's office labeled him as "head of Budva criminal group," which he later admitted in court. He eventually fled to neighboring <a href="/wiki/Serbia" title="Serbia">Serbia</a> for alleged psychiatric treatment in <a href="/wiki/Belgrade" title="Belgrade">Belgrade</a>, where he currently resides. Montenegro has repeatedly requested his extradition from Serbia.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> In August 2020, Marović spoke to the media for the first time, after fleeing to Belgrade, accusing the leadership of the party he founded of corruption, nepotism, <a href="/wiki/Particracy" title="Particracy">partocracy</a> and authoritarianism, also accusing <a href="/wiki/Milo_%C4%90ukanovi%C4%87" title="Milo Đukanović">President Đukanović</a> of rigging the corruption process against him and members of his family.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Secretary_Kerry_Puts_the_Cap_Back_on_His_Pen_After_Signing_an_Accession_Protocol_to_Continue_Montenegro%27s_Admission_to_NATO_in_Brussels_(27045333901)_(cropped).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Secretary_Kerry_Puts_the_Cap_Back_on_His_Pen_After_Signing_an_Accession_Protocol_to_Continue_Montenegro%27s_Admission_to_NATO_in_Brussels_%2827045333901%29_%28cropped%29.jpg/170px-thumbnail.jpg" decoding="async" width="170" height="241" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Secretary_Kerry_Puts_the_Cap_Back_on_His_Pen_After_Signing_an_Accession_Protocol_to_Continue_Montenegro%27s_Admission_to_NATO_in_Brussels_%2827045333901%29_%28cropped%29.jpg/255px-thumbnail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Secretary_Kerry_Puts_the_Cap_Back_on_His_Pen_After_Signing_an_Accession_Protocol_to_Continue_Montenegro%27s_Admission_to_NATO_in_Brussels_%2827045333901%29_%28cropped%29.jpg/340px-thumbnail.jpg 2x" data-file-width="631" data-file-height="895" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Secretary_Kerry_Puts_the_Cap_Back_on_His_Pen_After_Signing_an_Accession_Protocol_to_Continue_Montenegro%27s_Admission_to_NATO_in_Brussels_(27045333901)_(cropped).jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/President_of_Montenegro" title="President of Montenegro">President</a> <a href="/wiki/Milo_%C4%90ukanovi%C4%87" title="Milo Đukanović">Milo Đukanović</a>, whose <a href="/wiki/Democratic_Party_of_Socialists_of_Montenegro" title="Democratic Party of Socialists of Montenegro">DPS</a> ruled the country for three decades, established a <a href="/wiki/Hybrid_regime" title="Hybrid regime">hybrid regime</a> through alleged <a href="/wiki/Strongman_(politics)" title="Strongman (politics)">strongman tactics</a></div></div></div>
+<p>In its June 2018 report, issued after the April 2018 presidential election, the <a href="/wiki/Organization_for_Security_and_Co-operation_in_Europe" title="Organization for Security and Co-operation in Europe">OSCE</a>’s Office for Democratic Institutions and Human Rights, <a href="/wiki/Office_for_Democratic_Institutions_and_Human_Rights" title="Office for Democratic Institutions and Human Rights">Office for Democratic Institutions and Human Rights</a>, called for election reforms in Montenegro, and for more integrity, impartiality, and professionalism in election administration.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p><a href="/wiki/2019_Montenegrin_anti-corruption_protests" title="2019 Montenegrin anti-corruption protests">Protests against corruption</a> in the <a href="/wiki/Democratic_Party_of_Socialists" class="mw-redirect" title="Democratic Party of Socialists">DPS</a>-led government started in February 2019 after the revelation of footage and documents that appeared to implicate top officials in obtaining funds for the ruling party. On 30 March, all 39 opposition MPs signed an "Agreement for the Future", proposed by the protest organizers, in which they promised to boycott the 2020 elections if they were deemed irregular. In May 2020 the protest organizers called for a boycott of the 30 August elections, along with some opposition parties, claiming that the elections would not be held under fair conditions.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>The EU-backed board for electoral system reform, which both the government and the opposition participated in, failed in December 2019, after the opposition left the board sessions as a protest against the government passing a controversial law on religion, accusing the ruling party of inciting ethnic hatred and unrest.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> In late December 2019 <a href="/wiki/2019%E2%80%9320_Clerical_protests_in_Montenegro" class="mw-redirect" title="2019–20 Clerical protests in Montenegro">another wave of protests started</a> against the newly adopted law which <i>de jure</i> transfers the ownership of church buildings and estates from the <a href="/wiki/Serbian_Orthodox_Church_in_Montenegro" class="mw-redirect" title="Serbian Orthodox Church in Montenegro">Serbian Orthodox Church</a> to the Montenegrin state.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>In its political rights and civil liberties worldwide report in May 2020, <a href="/wiki/Freedom_House" title="Freedom House">Freedom House</a> marked Montenegro as a <a href="/wiki/Hybrid_regime" title="Hybrid regime">hybrid regime</a> rather than a democracy because of declining standards in governance, justice, elections, and media freedom. Freedom House stated that years of increasing state capture, abuse of power and <a href="/wiki/Strongman_(politics)" title="Strongman (politics)">strongman</a> tactics had been employed by long-term Prime Minister and President <a href="/wiki/Milo_%C4%90ukanovi%C4%87" title="Milo Đukanović">Milo Đukanović</a>, and for the first time since 2003, Montenegro was no longer categorised as a democracy. The report emphasised the unequal electoral process, cases of political arrests, negative developments related to judicial independence, media freedoms, as well as a series of unresolved cases of corruption within the DPS-led government. Despite repeated demands from the opposition, NGO sector, and the EU-backed institutions for the professionalization and neutralisation of institutions controlling the electoral process, they are still under the de facto control of the ruling Democratic Party of Socialists-led coalition government.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Electoral_system">Electoral system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit&amp;section=2" title="Edit section: Electoral system">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 81 seats of the <a href="/wiki/Parliament_of_Montenegro" title="Parliament of Montenegro">Parliament of Montenegro</a> are elected in a single nationwide constituency using <a href="/wiki/Closed_list" title="Closed list">closed list</a> <a href="/wiki/Proportional_representation" title="Proportional representation">proportional representation</a>. Seats are allocated using the <a href="/wiki/D%27Hondt_method" title="D&#39;Hondt method">d'Hondt method</a> with a 3% <a href="/wiki/Electoral_threshold" title="Electoral threshold">electoral threshold</a>. However, minority groups that account for no more than 15% of the population in a <a href="/wiki/Municipalities_of_Montenegro" title="Municipalities of Montenegro">district</a> are given an exemption that lowers the electoral threshold to 0.7% for a maximum of three seats.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> A separate exemption is given to <a href="/wiki/Croats_of_Boka_Kotorska" class="mw-redirect" title="Croats of Boka Kotorska">ethnic Croats</a> whereby if no list representing the population passes the 0.7% threshold, the list with the most votes will win one seat if it receives more than 0.35% of the vote.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Campaign">Campaign</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit&amp;section=3" title="Edit section: Campaign">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 1 May 2019, the <a href="/wiki/Socialist_People%27s_Party_(Montenegro)" class="mw-redirect" title="Socialist People&#39;s Party (Montenegro)">Socialist People's Party</a> (SNP), <a href="/wiki/United_Montenegro" title="United Montenegro">United Montenegro</a> (UCG), <a href="/wiki/Workers%27_Party_(Montenegro)" title="Workers&#39; Party (Montenegro)">Workers' Party</a> (RP) and <a href="/wiki/Independent_politician" title="Independent politician">Independent group</a> in <a href="/wiki/Parliament_of_Montenegro" title="Parliament of Montenegro">the parliament</a> agreed to form a new catch-all political alliance under the name <a href="/wiki/For_the_Benefit_of_All" title="For the Benefit of All">For the Benefit of All</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> The alliance eventually dissolved prior the election. In August 2020 all three parties decided to join a pre-election coalition with right-wing <a href="/wiki/Democratic_Front_(Montenegro)" title="Democratic Front (Montenegro)">Democratic Front</a> (DF) alliance, under the name <a href="/wiki/For_the_Future_of_Montenegro" title="For the Future of Montenegro">For the Future of Montenegro</a>,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> as did some minor political parties, such as the <a href="/wiki/True_Montenegro" title="True Montenegro">True Montenegro</a> (PCG), <a href="/wiki/Democratic_Party_of_Unity" title="Democratic Party of Unity">Democratic Party of Unity</a> (DSJ), <a href="/wiki/Democratic_Serb_Party_(Montenegro)" title="Democratic Serb Party (Montenegro)">Democratic Serb Party</a> (DSS) and <a href="/wiki/Yugoslav_Communist_Party_of_Montenegro" title="Yugoslav Communist Party of Montenegro">Yugoslav Communist Party</a> (JKP).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>On 11 July 2020 the <a href="/wiki/United_Reform_Action" title="United Reform Action">Civic Movement URA</a> decided to run independently, presenting its centre-left "<a href="/wiki/United_Reform_Action" title="United Reform Action">In Black and White</a>" <a href="/wiki/Party_platform" title="Party platform">election platform</a>, led by <a href="/wiki/Independent_candidates" class="mw-redirect" title="Independent candidates">independent candidates</a>, including well known journalist and activist <a href="/wiki/Milka_Tadi%C4%87" title="Milka Tadić">Milka Tadić</a>, some <a href="/wiki/University_of_Montenegro" title="University of Montenegro">university professors</a>, journalists, civic and NGO activists, with the party leader <a href="/wiki/Dritan_Abazovi%C4%87" title="Dritan Abazović">Dritan Abazović</a> as a ballot carrier.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> URA electoral list also contains one representative of the Bosniak minority interests <a href="/wiki/Justice_and_Reconciliation_Party" title="Justice and Reconciliation Party">SPP</a> party, as well of some minor localist parties and initiatives.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p><a href="/wiki/Democratic_Montenegro" title="Democratic Montenegro">Democratic Montenegro</a>, <a href="/wiki/DEMOS_(Montenegro)" title="DEMOS (Montenegro)">DEMOS</a>, the <a href="/wiki/New_Left_(Montenegro)" title="New Left (Montenegro)">New Left</a>, <a href="/wiki/Party_of_United_Pensioners_and_the_Disabled" title="Party of United Pensioners and the Disabled">PUPI</a> and the NGO <a href="/wiki/Vladimir_Pavi%C4%87evi%C4%87" title="Vladimir Pavićević">Policy Research Society</a>, agreed to form a pre-election coalition under the name <a href="/wiki/Peace_is_Our_Nation" title="Peace is Our Nation">Peace is Our Nation</a>, with Democratic Montenegro leader <a href="/wiki/Aleksa_Be%C4%8Di%C4%87" title="Aleksa Bečić">Aleksa Bečić</a> as a ballot carrier.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> 
+</p><p>On 12 July 2020 the opposition <a href="/wiki/Social_Democratic_Party_of_Montenegro" title="Social Democratic Party of Montenegro">Social Democratic Party of Montenegro</a> (SDP) announced that it would run independently,<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> as did the <a href="/wiki/Social_Democrats_of_Montenegro" title="Social Democrats of Montenegro">Social Democrats of Montenegro</a> (SD), junior party in the <a href="/wiki/Markovi%C4%87_Cabinet" title="Marković Cabinet">previous government coalition</a>, a few days earlier.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p><p>On 28 July 2020 the <a href="/wiki/Albanian_List_(Montenegro)" title="Albanian List (Montenegro)">Albanian List</a>, an <a href="/wiki/Minority_politics" class="mw-redirect" title="Minority politics">minority politics</a> coalition was formed by <a href="/wiki/New_Democratic_Force_(Montenegro)" title="New Democratic Force (Montenegro)">New Democratic Force</a> (Forca), the <a href="/wiki/Albanian_Alternative" title="Albanian Alternative">Albanian Alternative</a> (AA), <a href="/wiki/Albanian_Coalition_%22Perspective%22" title="Albanian Coalition &quot;Perspective&quot;">Albanian Coalition Perspective</a> (AKP) and the <a href="/wiki/Democratic_League_in_Montenegro" title="Democratic League in Montenegro">Democratic League of Albanians</a> (DSA),<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> A few weeks earlier, <a href="/wiki/Democratic_Union_of_Albanians" title="Democratic Union of Albanians">Democratic Union of Albanians</a> (DUA) agreed to join the <a href="/wiki/Democratic_Party_(Montenegro)" title="Democratic Party (Montenegro)">DP</a> and <a href="/wiki/Democratic_League_in_Montenegro" title="Democratic League in Montenegro">DSCG</a>'s <a href="/wiki/Albanian_Coalition" title="Albanian Coalition">Albanian Coalition "Unanimously"</a>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p><p>Priror August 2020 the centre-right minority politics <a href="/wiki/Bosniak_Party" title="Bosniak Party">Bosniak Party</a> (BS) announced that it would run independently, as did the centre-right <a href="/wiki/Croatian_Civic_Initiative" title="Croatian Civic Initiative">Croatian Civic Initiative</a> (HGI) and the newly formed centrist <a href="/wiki/Croatian_Reform_Party" class="mw-redirect" title="Croatian Reform Party">Croatian Reform Party</a> (HRS).<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p><p>On 1 August 2020 the ruling <a href="/wiki/Democratic_Party_of_Socialists_of_Montenegro" title="Democratic Party of Socialists of Montenegro">Democratic Party of Socialists</a> (DPS) decided to run independently, with <a href="/wiki/Andrija_Popovi%C4%87" title="Andrija Popović">Andrija Popović</a> as <a href="/wiki/Liberal_Party_of_Montenegro" title="Liberal Party of Montenegro">Liberal Party</a> (LP) representative on their electoral list, with incumbent PM <a href="/wiki/Du%C5%A1ko_Markovi%C4%87" title="Duško Marković">Duško Marković</a> as a ballot carrier.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Electoral_lists">Electoral lists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit&amp;section=4" title="Edit section: Electoral lists">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th style="text-align:center;">#
+</th>
+<th style="text-align:center;">Electoral list name
+</th>
+<th style="text-align:center;">Ballot carrier
+</th>
+<th style="text-align:center;">Political position
+</th>
+<th style="text-align:center;">Note
+</th></tr>
+<tr>
+<td style="text-align:center;">1
+</td>
+<td><a href="/wiki/Social_Democrats_of_Montenegro" title="Social Democrats of Montenegro">Social Democrats</a> – Ivan Brajović - We decide, consistently
+</td>
+<td><a href="/wiki/Ivan_Brajovi%C4%87" title="Ivan Brajović">Ivan Brajović</a>
+</td>
+<td>Centre to centre-left
+</td>
+<td style="text-align:center;">
+</td></tr>
+<tr>
+<td style="text-align:center;">2
+</td>
+<td><a href="/wiki/Bosniak_Party" title="Bosniak Party">Bosniak Party</a> – Correctly – <a href="/wiki/Rafet_Husovi%C4%87" title="Rafet Husović">Rafet Husović</a>
+</td>
+<td>Ervin Ibrahimović
+</td>
+<td>Centre-right to right
+</td>
+<td style="text-align:center;"><sup>M</sup>
+</td></tr>
+<tr>
+<td style="text-align:center;">3
+</td>
+<td><a href="/wiki/Croatian_Civic_Initiative" title="Croatian Civic Initiative">HGI</a> – With all heart for Montenegro!
+</td>
+<td><a href="https://hr.wikipedia.org/wiki/Adrian_Vuksanovi%C4%87" class="extiw" title="hr:Adrian Vuksanović">Adrian Vuksanović</a>
+</td>
+<td>Centre-right
+</td>
+<td style="text-align:center;"><sup>M</sup>
+</td></tr>
+<tr>
+<td style="text-align:center;">4
+</td>
+<td><a href="/wiki/Social_Democratic_Party_of_Montenegro" title="Social Democratic Party of Montenegro">Social Democratic Party</a> – Strong Montenegro!
+</td>
+<td><a href="/wiki/Draginja_Vuksanovi%C4%87" title="Draginja Vuksanović">Draginja Vuksanović</a>
+</td>
+<td>Centre-left
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:center;">5
+</td>
+<td><a href="/wiki/Croatian_Reform_Party" class="mw-redirect" title="Croatian Reform Party">Croatian Reform Party of Montenegro – HRS</a>
+</td>
+<td>Radovan Marić
+</td>
+<td>Centre to centre-right
+</td>
+<td style="text-align:center;"><sup>M</sup>
+</td></tr>
+<tr>
+<td style="text-align:center;">6
+</td>
+<td>Dritan Abazović – <a href="/wiki/United_Reform_Action" title="United Reform Action">In Black and White</a> – Srđan Pavićević
+</td>
+<td><a href="/wiki/Dritan_Abazovi%C4%87" title="Dritan Abazović">Dritan Abazović</a>
+</td>
+<td>Centre-left
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:center;">7
+</td>
+<td><a href="/wiki/Albanian_Coalition" title="Albanian Coalition">Albanian Coalition – Unanimously</a> – <a href="/wiki/Democratic_Party_(Montenegro)" title="Democratic Party (Montenegro)">DP</a>, <a href="/wiki/Democratic_Union_of_Albanians" title="Democratic Union of Albanians">DUA</a>, <a href="/wiki/Democratic_League_in_Montenegro" title="Democratic League in Montenegro">DSCG</a>
+</td>
+<td><a href="https://sq.wikipedia.org/wiki/Fatmir_Gjeka" class="extiw" title="sq:Fatmir Gjeka">Fatmir Gjeka</a>
+</td>
+<td>Centre-right to right
+</td>
+<td style="text-align:center;"><sup>M</sup>
+</td></tr>
+<tr>
+<td style="text-align:center;">8
+</td>
+<td>Decisively for Montenegro! <a href="/wiki/Democratic_Party_of_Socialists_of_Montenegro" title="Democratic Party of Socialists of Montenegro">DPS</a> – <a href="/wiki/Milo_%C4%90ukanovi%C4%87" title="Milo Đukanović">Milo Đukanović</a>
+</td>
+<td><a href="/wiki/Du%C5%A1ko_Markovi%C4%87" title="Duško Marković">Duško Marković</a>
+</td>
+<td>Big tent/Populist
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:center;">9
+</td>
+<td><a href="/wiki/For_the_Future_of_Montenegro" title="For the Future of Montenegro">For the Future of Montenegro</a> – <a href="/wiki/Democratic_Front_(Montenegro)" title="Democratic Front (Montenegro)">DF</a>, <a href="/wiki/Socialist_People%27s_Party_of_Montenegro" title="Socialist People&#39;s Party of Montenegro">SNP</a>, <a href="/wiki/Popular_Movement_(Montenegro)" class="mw-redirect" title="Popular Movement (Montenegro)">Popular Movement</a>
+</td>
+<td><a href="/wiki/Zdravko_Krivokapi%C4%87" title="Zdravko Krivokapić">Zdravko Krivokapić</a>
+</td>
+<td>Centre-right to right
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:center;">10
+</td>
+<td><a href="/wiki/Albanian_List_(Montenegro)" title="Albanian List (Montenegro)">Albanian List</a> – <a href="/wiki/New_Democratic_Force_(Montenegro)" title="New Democratic Force (Montenegro)">Genci Nimanbegu</a>, <a href="/wiki/Albanian_Alternative" title="Albanian Alternative">Nik Đeljošaj</a>
+</td>
+<td><a href="/wiki/Nik_Gjeloshaj" title="Nik Gjeloshaj">Nik Gjeloshaj</a>
+</td>
+<td>Centre-right to right
+</td>
+<td style="text-align:center;"><sup>M</sup>
+</td></tr>
+<tr>
+<td style="text-align:center;">11
+</td>
+<td>Aleksa Bečić – <a href="/wiki/Miodrag_Leki%C4%87" title="Miodrag Lekić">Miodrag Lekić</a> – <a href="/wiki/Peace_is_Our_Nation" title="Peace is Our Nation">Peace is Our Nation</a>
+</td>
+<td><a href="/wiki/Aleksa_Be%C4%8Di%C4%87" title="Aleksa Bečić">Aleksa Bečić</a>
+</td>
+<td>Big tent/Centrist
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="5" bgcolor="#E9E9E9">
+</td></tr>
+<tr>
+<td colspan="5">• Source: <a rel="nofollow" class="external text" href="https://dik.co.me/wp-content/uploads/2020/08/zbirna-izborna-lista-2020-2.pdf">National Electoral Commission</a> (official website). • Note: "M" denotes the <a href="/wiki/Minority_group" title="Minority group">national minority electoral list</a>.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Opinion_polls">Opinion polls</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit&amp;section=5" title="Edit section: Opinion polls">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Poll results are listed in the table below in reverse chronological order, showing the most recent first, and using the date poll was published. The highest percentage figure in each polling survey is displayed in bold, and the background shaded in the leading party's colour. In the instance that there is a tie, then no figure is shaded. The lead column on the right shows the percentage-point difference between the two parties with the highest figures. The threshold for a party to provide their deputies in parliament is 3%, except for minority parties and coalitions (E.g. <a href="/wiki/Bosniak_Party" title="Bosniak Party">BS</a>, <a href="/wiki/New_Democratic_Force_(Montenegro)" title="New Democratic Force (Montenegro)">Forca</a> and <a href="/wiki/Albanian_Alternative" title="Albanian Alternative">AA</a>), for which that threshold does not apply.
+</p>
+<ul><li><sup class="reference" id="ref_reference_name_aa"><a href="#endnote_reference_name_aa">[a]</a></sup> denotes the poll was commissioned by an election participating political party.</li>
+<li><sup class="reference" id="ref_reference_name_bb"><a href="#endnote_reference_name_bb">[b]</a></sup> denotes the poll was commissioned by an embassy or a foreign institute.</li></ul>
+<table class="wikitable" style="text-align:center; font-size:80%; line-height:16px;">
+
+<tbody><tr style="height:42px; background-color:#E9E9E9">
+<th style="width:115px;" rowspan="2">Date
+</th>
+<th style="width:150px;" rowspan="2">Polling firm/source
+</th>
+<th style="width:45px;"><a href="/wiki/Democratic_Party_of_Socialists_of_Montenegro" title="Democratic Party of Socialists of Montenegro">DPS</a>
+</th>
+<th style="width:45px;"><a href="/wiki/Democratic_Front_(Montenegro)" title="Democratic Front (Montenegro)">DF</a>
+</th>
+<th style="width:45px;"><a href="/wiki/True_Montenegro" title="True Montenegro">PCG</a>
+</th>
+<th style="width:45px;"><a href="/wiki/Socialist_People%27s_Party_of_Montenegro" title="Socialist People&#39;s Party of Montenegro">SNP</a>
+</th>
+<th style="width:45px;"><a href="/wiki/United_Montenegro" title="United Montenegro">UCG</a>
+</th>
+<th style="width:45px;"><a href="/wiki/United_Reform_Action" title="United Reform Action">URA</a>
+</th>
+<th style="width:45px;"><a href="/wiki/DEMOS_(Montenegro)" title="DEMOS (Montenegro)">Demos</a>
+</th>
+<th style="width:45px;"><a href="/wiki/Democratic_Montenegro" title="Democratic Montenegro">DCG</a>
+</th>
+<th style="width:45px;"><a href="/wiki/Social_Democratic_Party_of_Montenegro" title="Social Democratic Party of Montenegro">SDP</a>
+</th>
+<th style="width:45px;"><a href="/wiki/Social_Democrats_of_Montenegro" title="Social Democrats of Montenegro">SD</a>
+</th>
+<th style="width:45px;"><a href="/wiki/Bosniak_Party" title="Bosniak Party">BS</a>
+</th>
+<th style="width:45px;"><a href="/wiki/New_Democratic_Force_(Montenegro)" title="New Democratic Force (Montenegro)">Forca</a>
+</th>
+<th style="width:45px;"><a href="/wiki/Albanian_Alternative" title="Albanian Alternative">AA</a>
+</th>
+<th style="width:45px;" rowspan="2">Others
+</th>
+<th style="width:25px;" rowspan="2">Lead
+</th></tr>
+<tr>
+<th style="background:#F6931D;">
+</th>
+<th style="background:#00008B;">
+</th>
+<th style="background:#cc0000;">
+</th>
+<th style="background:#00AAE4;">
+</th>
+<th style="background:#4169e1;">
+</th>
+<th style="background:#274B75;">
+</th>
+<th style="background:#87CEEB;">
+</th>
+<th style="background:#ff6666;">
+</th>
+<th style="background:#c11b17;">
+</th>
+<th style="background:#fd00ff;">
+</th>
+<th style="background:#32CD32;">
+</th>
+<th style="background:#1E90FF;">
+</th>
+<th style="background:navy;">
+</th></tr>
+<tr>
+<td>Aug 2020
+</td>
+<td><a rel="nofollow" class="external text" href="https://borba.me/istrazivanje-intelligent-communications-opozicija-bjezi-dps-u-za-3-mandata-sd-ispod-cenzusa/">ICA</a>
+</td>
+<td style="background:#fac585"><b>35.1</b>
+</td>
+<td colspan="4">25.9
+</td>
+<td>7.5
+</td>
+<td colspan="2">15.5
+</td>
+<td>3.1
+</td>
+<td>2.6
+</td>
+<td>5.4
+</td>
+<td colspan="2">4.4
+</td>
+<td>0.5
+</td>
+<td style="background:#F6931D; color:white;">9.2
+</td></tr>
+<tr>
+<td>Aug 2020
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.glasamerike.net/a/crna-gora-istrazivanje-javno-mnenje/5542119.html">CeDem</a>
+</td>
+<td style="background:#fac585"><b>35.3</b>
+</td>
+<td colspan="4">24.7
+</td>
+<td>6.6
+</td>
+<td colspan="2">16.5
+</td>
+<td>4.2
+</td>
+<td>5.3
+</td>
+<td>4.8
+</td>
+<td colspan="2">1.9
+</td>
+<td>0.7
+</td>
+<td style="background:#F6931D; color:white;">10.6
+</td></tr>
+<tr>
+<td>July 2020
+</td>
+<td><a rel="nofollow" class="external text" href="https://borba.me/istrazivanje-nspm-iz-beograda-crna-gora-pred-smjenom-rezima-narod-najvise-vjeruje-spc/">NSPM</a>
+</td>
+<td style="background:#fac585"><b>35.9</b>
+</td>
+<td>17.2
+</td>
+<td>3.8
+</td>
+<td>4.5
+</td>
+<td>&gt;1
+</td>
+<td>6.1
+</td>
+<td>3.5
+</td>
+<td>17.5
+</td>
+<td>3.4
+</td>
+<td>1.8
+</td>
+<td>3.2
+</td>
+<td colspan="2">1.3
+</td>
+<td>1.8
+</td>
+<td style="background:#F6931D; color:white;">18.4
+</td></tr>
+<tr>
+<td>July 2020
+</td>
+<td><a rel="nofollow" class="external text" href="https://mina.news/crnagora/koalicija-dps-lp-na-prvom-savez-demokrate-i-demos-na-drugom-mjestu/">HoW</a><sup class="reference" id="ref_reference_name_aa"><a href="#endnote_reference_name_aa">[a]</a></sup>
+</td>
+<td style="background:#fac585"><b>41.2</b>
+</td>
+<td colspan="2">15.8
+</td>
+<td colspan="2">6.1
+</td>
+<td>2.4
+</td>
+<td colspan="2">16.4
+</td>
+<td>3.9
+</td>
+<td>5.9
+</td>
+<td>4.1
+</td>
+<td colspan="2">2.9
+</td>
+<td>1.3
+</td>
+<td style="background:#F6931D; color:white;">24.8
+</td></tr>
+<tr>
+<td>June 2020
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.rtcg.me/vijesti/politika/284540/dps-stabilan-df-jaci-od-demokrata.html">HoW</a><sup class="reference" id="ref_reference_name_aa"><a href="#endnote_reference_name_aa">[a]</a></sup>
+</td>
+<td style="background:#fac585"><b>39.8</b>
+</td>
+<td>13.8
+</td>
+<td>2.1
+</td>
+<td>5.1
+</td>
+<td>0.8
+</td>
+<td>2.2
+</td>
+<td>2.9
+</td>
+<td>13.2
+</td>
+<td>3.8
+</td>
+<td>6.2
+</td>
+<td>4.2
+</td>
+<td colspan="2">3.3
+</td>
+<td>2.6
+</td>
+<td style="background:#F6931D; color:white;">26.0
+</td></tr>
+<tr>
+<td>May 2020
+</td>
+<td><a rel="nofollow" class="external text" href="https://m.cdm.me/politika/liberalna-partija-nastavlja-se-rast-rejtinga-vladajuce-koalicije/">HoW</a><sup class="reference" id="ref_reference_name_aa"><a href="#endnote_reference_name_aa">[a]</a></sup>
+</td>
+<td style="background:#fac585"><b>41.2</b>
+</td>
+<td>12.9
+</td>
+<td>1.4
+</td>
+<td>5.5
+</td>
+<td>0.6
+</td>
+<td>2.8
+</td>
+<td>3.1
+</td>
+<td>12.1
+</td>
+<td>4.4
+</td>
+<td>6.5
+</td>
+<td>4.1
+</td>
+<td colspan="2">3.2
+</td>
+<td>2.2
+</td>
+<td style="background:#F6931D; color:white;">28.3
+</td></tr>
+<tr>
+<td>Apr 2020
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.rtcg.me/vijesti/politika/275887/partije-vladajuce-koalicije-biljeze-rast-povjerenja.html">HoW</a><sup class="reference" id="ref_reference_name_aa"><a href="#endnote_reference_name_aa">[a]</a></sup>
+</td>
+<td style="background:#fac585"><b>40.5</b>
+</td>
+<td>12.5
+</td>
+<td>1.8
+</td>
+<td>5.2
+</td>
+<td>0.9
+</td>
+<td>2.7
+</td>
+<td>2.7
+</td>
+<td>13.5
+</td>
+<td>4.1
+</td>
+<td>6.1
+</td>
+<td>4.2
+</td>
+<td colspan="2">3.1
+</td>
+<td>2.7
+</td>
+<td style="background:#F6931D; color:white;">26
+</td></tr>
+<tr>
+<td>Feb 2020
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.in4s.net/istrazivanje-pokazalo-62-gradjana-protiv-zakona-o-slobodi-vjeroispovjesti-samo-20-za-df-i-demokrate-jaci-od-dps/">ICA</a>
+</td>
+<td style="background:#fac585"><b>32.8</b>
+</td>
+<td>23.1
+</td>
+<td>1.6
+</td>
+<td>2.6
+</td>
+<td>0.7
+</td>
+<td>3.3
+</td>
+<td>2.3
+</td>
+<td>11.8
+</td>
+<td>3.1
+</td>
+<td>2.7
+</td>
+<td>5.1
+</td>
+<td colspan="2">4.5
+</td>
+<td>6.4
+</td>
+<td style="background:#F6931D; color:white;">9.7
+</td></tr>
+<tr>
+<td>Dec 2019
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/porastao-rejting-dps-a-najvise-se-vjeruje-spc-i-obrazovnom-sistemu">CeDem</a>
+</td>
+<td style="background:#fac585"><b>37</b>
+</td>
+<td>13.2
+</td>
+<td>2.2
+</td>
+<td>5.8
+</td>
+<td>1.2
+</td>
+<td>3.7
+</td>
+<td>2.6
+</td>
+<td>15
+</td>
+<td>4.1
+</td>
+<td>4.8
+</td>
+<td>4.9
+</td>
+<td>1
+</td>
+<td>1.6
+</td>
+<td>2.9
+</td>
+<td style="background:#F6931D; color:white;">22
+</td></tr>
+<tr>
+<td>Oct 2019
+</td>
+<td><a rel="nofollow" class="external text" href="https://borba.me/borba-otkriva-rezultate-istrazivanja-dps-ima-nikad-gori-rejting-sve-vise-ljudi-protiv-nato-a-putinu-najvise-vjeruju/">NSPM</a><sup class="reference" id="ref_reference_name_bb"><a href="#endnote_reference_name_bb">[b]</a></sup>
+</td>
+<td style="background:#fac585"><b>35.5</b>
+</td>
+<td>20.8
+</td>
+<td>1.9
+</td>
+<td colspan="2">6.3
+</td>
+<td>2.5
+</td>
+<td>1.7
+</td>
+<td>15.1
+</td>
+<td>3.2
+</td>
+<td>4.4
+</td>
+<td>3.2
+</td>
+<td colspan="2">2.3
+</td>
+<td>3.1
+</td>
+<td style="background:#F6931D; color:white;">14.7
+</td></tr>
+<tr>
+<td>Sep 2019
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.standard.co.me/politika/procurela-interna-istrazivanja-dps-najjaca-stranka-df-ispred-demokrata-prava-ulazi-u-parlament/">Damar</a><sup class="reference" id="ref_reference_name_aa"><a href="#endnote_reference_name_aa">[a]</a></sup>
+</td>
+<td style="background:#fac585"><b>38</b>
+</td>
+<td>15.3
+</td>
+<td>4.3
+</td>
+<td>4
+</td>
+<td>0.7
+</td>
+<td>2.7
+</td>
+<td>2.5
+</td>
+<td>14.8
+</td>
+<td>2.8
+</td>
+<td>4.3
+</td>
+<td>4
+</td>
+<td colspan="2">2.6
+</td>
+<td>4.0
+</td>
+<td style="background:#F6931D; color:white;">22.7
+</td></tr>
+<tr>
+<td>Aug 2019
+</td>
+<td><a rel="nofollow" class="external text" href="https://m.portalanalitika.me/clanak/341585/dps-41-odsto-demokrate-17-odsto-df-13-odsto-dukanovicu-se-najvise-vjeruje">Ipsos</a>
+</td>
+<td style="background:#fac585"><b>41</b>
+</td>
+<td>13
+</td>
+<td>3
+</td>
+<td colspan="2">8
+</td>
+<td>2
+</td>
+<td>2.5
+</td>
+<td>17
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>2
+</td>
+<td>&gt;1
+</td>
+<td>2
+</td>
+<td>3.5
+</td>
+<td style="background:#F6931D; color:white;">24
+</td></tr>
+<tr>
+<td>July 2019
+</td>
+<td><a rel="nofollow" class="external text" href="http://cedem.me/publikacije/istrazivanja/politicko-javno-mnjenje/send/29-politicko-javno-mnjenje/1938-politicko-javno-mnjenje-jul-2019">CeDem</a>
+</td>
+<td style="background:#fac585"><b>34</b>
+</td>
+<td>15.6
+</td>
+<td>2.3
+</td>
+<td colspan="2">6.6
+</td>
+<td>4.9
+</td>
+<td>3.7
+</td>
+<td>14.6
+</td>
+<td>3.1
+</td>
+<td>5.3
+</td>
+<td>4.3
+</td>
+<td>&gt;1
+</td>
+<td>2.6
+</td>
+<td>3
+</td>
+<td style="background:#F6931D; color:white;">18.4
+</td></tr>
+<tr>
+<td>Dec 2018
+</td>
+<td><a rel="nofollow" class="external text" href="https://web.archive.org/web/20181213131722/http://www.vijesti.me/vijesti/dukanovic-najbolje-ocijenjeni-politicar-slijede-becic-sehovic-markovic-1016121">CeDem</a>
+</td>
+<td style="background:#fac585"><b>41.5</b>
+</td>
+<td>10.1
+</td>
+<td>1.1
+</td>
+<td>6.8
+</td>
+<td>&gt;1
+</td>
+<td>2.8
+</td>
+<td>2.6
+</td>
+<td>20.7
+</td>
+<td>3.5
+</td>
+<td>4
+</td>
+<td>3.2
+</td>
+<td>0.1
+</td>
+<td>2.3
+</td>
+<td>1.3
+</td>
+<td style="background:#F6931D; color:white;">20.8
+</td></tr>
+<tr>
+<td>Dec 2018
+</td>
+<td><a rel="nofollow" class="external text" href="https://borba.me/borba-otkriva-najnovije-istrazivanje-javnog-mnjenja-srpska-crkva-najpopularnija-gradjani-protiv-nato-a-dps-ispred-df-a-i-demokrata/">NSPM</a><sup class="reference" id="ref_reference_name_bb"><a href="#endnote_reference_name_bb">[b]</a></sup>
+</td>
+<td style="background:#fac585"><b>42.7</b>
+</td>
+<td>18.4
+</td>
+<td>1.3
+</td>
+<td>4.4
+</td>
+<td>1.2
+</td>
+<td>2.1
+</td>
+<td>1.2
+</td>
+<td>14.1
+</td>
+<td>3.5
+</td>
+<td>4.5
+</td>
+<td>3.1
+</td>
+<td>&gt;1
+</td>
+<td>1.5
+</td>
+<td>2.0
+</td>
+<td style="background:#F6931D; color:white;">24.3
+</td></tr>
+<tr>
+<td>Mar 2018
+</td>
+<td><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180330075800/http://www.vijesti.me/vijesti/cedem-za-dukanovica-bi-glasalo-506-odsto-za-bojanica-355-za-vuksanovic-79-982018">CeDem</a>
+</td>
+<td style="background:#fac585"><b>43</b>
+</td>
+<td>12.6
+</td>
+<td>1.1
+</td>
+<td>5.1
+</td>
+<td>&gt;1
+</td>
+<td>3.7
+</td>
+<td>2.4
+</td>
+<td>21.2
+</td>
+<td>4
+</td>
+<td>1.2
+</td>
+<td>2
+</td>
+<td>2.4
+</td>
+<td>0.2
+</td>
+<td>1.1
+</td>
+<td style="background:#F6931D; color:white;">21.8
+</td></tr>
+<tr>
+<td>Dec 2017
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.cedem.me/aktivnosti/1040-predstavljeni-rezultati-istrazivanja-politickog-javnog-mnjenja">CeDem</a>
+</td>
+<td style="background:#fac585"><b>39.9</b>
+</td>
+<td>13
+</td>
+<td><i>—</i>
+</td>
+<td>4.5
+</td>
+<td>0.4
+</td>
+<td>3.5
+</td>
+<td>3.5
+</td>
+<td>21.3
+</td>
+<td>3.9
+</td>
+<td>3.5
+</td>
+<td>2.7
+</td>
+<td>0.7
+</td>
+<td>1
+</td>
+<td>3.2
+</td>
+<td style="background:#F6931D; color:white;">18.6
+</td></tr>
+<tr>
+<td>Oct 2017
+</td>
+<td><a rel="nofollow" class="external text" href="https://m.cdm.me/politika/dps-bi-podrzalo-40-odsto-gradana/">Ipsos</a><sup class="reference" id="ref_reference_name_bb"><a href="#endnote_reference_name_bb">[b]</a></sup>
+</td>
+<td style="background:#fac585"><b>40</b>
+</td>
+<td>15
+</td>
+<td><i>—</i>
+</td>
+<td>5
+</td>
+<td><i>—</i>
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>23
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>&gt;1
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td style="background:#F6931D; color:white;">17
+</td></tr>
+<tr>
+<td>Oct 2017
+</td>
+<td><a rel="nofollow" class="external text" href="https://web.archive.org/web/20171009041604/http://www.vijesti.me/vijesti/za-dps-38-odsto-gradana-demokrate-261-df-122-becic-dobija-dukanovica-ako-su-samo-njih-dvojica-na-listi-957646">DeFacto</a><sup class="reference" id="ref_reference_name_aa"><a href="#endnote_reference_name_aa">[a]</a></sup>
+</td>
+<td style="background:#fac585"><b>38</b>
+</td>
+<td>12.2
+</td>
+<td><i>—</i>
+</td>
+<td>4.1
+</td>
+<td><i>—</i>
+</td>
+<td>1.5
+</td>
+<td>4.3
+</td>
+<td>26.1
+</td>
+<td>3.4
+</td>
+<td>1.9
+</td>
+<td>1.9
+</td>
+<td>2
+</td>
+<td>&gt;1
+</td>
+<td>6.6
+</td>
+<td style="background:#F6931D; color:white;">11.9
+</td></tr>
+<tr>
+<td>July 2017
+</td>
+<td><a rel="nofollow" class="external text" href="https://fosmedia.me/mobile/infos/politika/istrazivanje-demokrate-ispred-df-becic-ispred-dukanovica">CeDem</a>
+</td>
+<td style="background:#fac585"><b>39</b>
+</td>
+<td>11.6
+</td>
+<td><i>—</i>
+</td>
+<td>4.9
+</td>
+<td><i>—</i>
+</td>
+<td>4
+</td>
+<td>5.9
+</td>
+<td>19.9
+</td>
+<td>3.9
+</td>
+<td>3.2
+</td>
+<td>3.1
+</td>
+<td>1.2
+</td>
+<td>1.1
+</td>
+<td>3.7
+</td>
+<td style="background:#F6931D; color:white;">19.1
+</td></tr>
+<tr>
+<td>Dec 2016
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.dan.co.me/?nivo=3&amp;rubrika=Politika&amp;clanak=578689&amp;datum=2016-12-22">CeDem</a>
+</td>
+<td style="background:#fac585"><b>36.8</b>
+</td>
+<td>21
+</td>
+<td><i>—</i>
+</td>
+<td>7.8
+</td>
+<td><i>—</i>
+</td>
+<td>1.6
+</td>
+<td>6.3
+</td>
+<td>12.2
+</td>
+<td>4.1
+</td>
+<td>2.3
+</td>
+<td>3.4
+</td>
+<td>0.8
+</td>
+<td>1.1
+</td>
+<td>3.7
+</td>
+<td style="background:#F6931D; color:white;">15.8
+</td></tr>
+
+<tr style="background:#EFEFEF; font-weight:bold;">
+<td>Oct 2016
+</td>
+<td><a href="/wiki/2016_Montenegrin_parliamentary_election" title="2016 Montenegrin parliamentary election">Election results</a>
+</td>
+<td style="background:#F6931D; color:white;"><b>41.4</b>
+</td>
+<td colspan="2" style="background:darkblue; color:white;">20.3
+</td>
+<td colspan="4" style="background:#CD5C5C; color:white;">11.1
+</td>
+<td style="background:#ff6666; color:white;">10.1
+</td>
+<td style="background:#c11b17; color:white;">5.2
+</td>
+<td style="background:#fd00ff; color:white;">3.2
+</td>
+<td style="background:#32CD32; color:white;">3.1
+</td>
+<td colspan="2" style="background:#4169E1; color:white;">1.2
+</td>
+<td>4.2
+</td>
+<td style="background:#F6931D; color:white;">21.1
+</td></tr></tbody></table>
+<p>The following graph depicts the evolution of standings of the main electoral lists in the poll average since last parliamentary elections in October 2016. Graph of opinion polls conducted, trend lines represent&#160;local regressions.
+</p>
+<ul class="gallery mw-gallery-packed-hover">
+		<li class="gallerybox" style="width: 760px"><div style="width: 760px">
+			<div class="thumb" style="width: 758px;"><div style="margin:0px auto;"><a href="/wiki/File:Montenegro_2020_polls.svg" class="image"><img alt="Montenegro 2020 polls.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Montenegro_2020_polls.svg/1137px-Montenegro_2020_polls.svg.png" decoding="async" width="758" height="400" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Montenegro_2020_polls.svg/1705px-Montenegro_2020_polls.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Montenegro_2020_polls.svg/2273px-Montenegro_2020_polls.svg.png 2x" data-file-width="981" data-file-height="518" /></a></div></div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Results">Results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit&amp;section=6" title="Edit section: Results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The result was a victory for the lists of parties which were in opposition in the previous parliament: <a href="/wiki/For_the_Future_of_Montenegro" title="For the Future of Montenegro">For the Future of Montenegro</a>, <a href="/wiki/Peace_is_Our_Nation" title="Peace is Our Nation">Peace is Our Nation</a>, <a href="/wiki/United_Reform_Action" title="United Reform Action">United Reform Action</a> and the <a href="/wiki/Social_Democratic_Party_of_Montenegro" title="Social Democratic Party of Montenegro">Social Democratic Party</a>. Opposition lists won 41 of the 81 seats in the&#160;Parliament of Montenegro, while the ruling <a href="/wiki/Democratic_Party_of_Socialists" class="mw-redirect" title="Democratic Party of Socialists">DPS</a>, together with the <a href="/wiki/Liberal_Party_of_Montenegro" title="Liberal Party of Montenegro">Liberal Party</a>, won 30 seats, going into opposition after thirty years in power. Three opposition lists, For the Future of Montenegro, Peace is Our Nation, and the United Reform Action party, which won a combined majority of 41 MPs, announced the formation of a coalition government.<sup id="cite_ref-N1_1_31-0" class="reference"><a href="#cite_note-N1_1-31">&#91;31&#93;</a></sup>
+</p><p>Opposition success at the national level was accompanied by its success at <a href="/wiki/2020_Montenegrin_municipal_elections" title="2020 Montenegrin municipal elections">local level elections</a>. It won four out of five municipalities where elections were held, including <a href="/wiki/Budva" title="Budva">Budva</a>, <a href="/wiki/Kotor" title="Kotor">Kotor</a>, <a href="/wiki/Tivat" title="Tivat">Tivat</a> and <a href="/wiki/Andrijevica" title="Andrijevica">Andrijevica</a>.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> 
+</p>
+<table class="wikitable" style="text-align:right">
+<tbody><tr>
+<td colspan="6"><div class="center"><div class="floatnone"><a href="/wiki/File:Montenegro_Parliament_2020_1.svg" class="image"><img alt="Montenegro Parliament 2020 1.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Montenegro_Parliament_2020_1.svg/310px-Montenegro_Parliament_2020_1.svg.png" decoding="async" width="310" height="159" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Montenegro_Parliament_2020_1.svg/465px-Montenegro_Parliament_2020_1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Montenegro_Parliament_2020_1.svg/620px-Montenegro_Parliament_2020_1.svg.png 2x" data-file-width="360" data-file-height="185" /></a></div></div>
+</td>
+</tr></tbody><caption>Election results<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</caption>
+<tbody><tr><th colspan="2">Party
+</th>
+<th>Votes
+</th>
+<th>%
+</th>
+<th>Seats
+</th>
+<th>+/–
+</th></tr>
+<tr>
+<td style="background-color:#F6880A">
+</td>
+<td align="left"><a href="/wiki/Democratic_Party_of_Socialists_of_Montenegro" title="Democratic Party of Socialists of Montenegro">Democratic Party of Socialists</a></td>
+<td>143,548
+</td>
+<td>35.06</td>
+<td>30
+</td>
+<td>–6
+</td></tr>
+<tr>
+<td style="background-color:#4682B4">
+</td>
+<td align="left"><a href="/wiki/For_the_Future_of_Montenegro" title="For the Future of Montenegro">For the Future of Montenegro</a></td>
+<td>133,267
+</td>
+<td>32.55</td>
+<td>27
+</td>
+<td>+6
+</td></tr>
+<tr>
+<td style="background-color:#ffae42">
+</td>
+<td align="left"><a href="/wiki/Peace_is_Our_Nation" title="Peace is Our Nation">Peace is Our Nation</a></td>
+<td>51,297
+</td>
+<td>12.54</td>
+<td>10
+</td>
+<td>–2
+</td></tr>
+<tr>
+<td style="background-color:#274B75">
+</td>
+<td align="left"><a href="/wiki/United_Reform_Action" title="United Reform Action">United Reform Action</a></td>
+<td>22,649
+</td>
+<td>5.53</td>
+<td>4
+</td>
+<td>+2
+</td></tr>
+<tr>
+<td style="background-color:#F08080">
+</td>
+<td align="left"><a href="/wiki/Social_Democrats_of_Montenegro" title="Social Democrats of Montenegro">Social Democrats</a></td>
+<td>16,769
+</td>
+<td>4.10</td>
+<td>3
+</td>
+<td>+1
+</td></tr>
+<tr>
+<td style="background-color:#32CD32">
+</td>
+<td align="left"><a href="/wiki/Bosniak_Party" title="Bosniak Party">Bosniak Party<span style="font-size:85%;"><sup>M</sup></span></a></td>
+<td>16,286
+</td>
+<td>3.98</td>
+<td>3
+</td>
+<td>+1
+</td></tr>
+<tr>
+<td style="background-color:#E90007">
+</td>
+<td align="left"><a href="/wiki/Social_Democratic_Party_of_Montenegro" title="Social Democratic Party of Montenegro">Social Democratic Party</a></td>
+<td>12,839
+</td>
+<td>3.14</td>
+<td>2
+</td>
+<td>–2
+</td></tr>
+<tr>
+<td style="background-color:#00AAE4">
+</td>
+<td align="left"><a href="/wiki/Albanian_List_(Montenegro)" title="Albanian List (Montenegro)">Albanian List</a><span style="font-size:85%;"><sup>M</sup></span></td>
+<td>6,488
+</td>
+<td>1.58</td>
+<td>1
+</td>
+<td>0
+</td></tr>
+<tr>
+<td style="background-color:#8B0000">
+</td>
+<td align="left"><a href="/wiki/Albanian_Coalition" title="Albanian Coalition">Albanian Coalition</a><span style="font-size:85%;"><sup>M</sup></span></td>
+<td>4,675
+</td>
+<td>1.14</td>
+<td>1
+</td>
+<td>+1
+</td></tr>
+<tr>
+<td style="background-color:#f08080">
+</td>
+<td align="left"><a href="/wiki/Croatian_Civic_Initiative" title="Croatian Civic Initiative">Croatian Civic Initiative</a><span style="font-size:85%;"><sup>M</sup></span></td>
+<td>1,115
+</td>
+<td>0.27</td>
+<td>0
+</td>
+<td>–1
+</td></tr>
+<tr>
+<td style="background-color:#6495ED">
+</td>
+<td align="left"><a href="/wiki/Croatian_Reform_Party" class="mw-redirect" title="Croatian Reform Party">Croatian Reform Party</a><span style="font-size:85%;"><sup>M</sup></span></td>
+<td>532
+</td>
+<td>0.13</td>
+<td>0
+</td>
+<td>New
+</td></tr>
+<tr>
+<td align="left" colspan="2">Invalid/blank votes</td>
+<td>4,503
+</td>
+<td>2.09</td>
+<td>–</td>
+<td>–
+</td></tr>
+<tr>
+<td align="left" colspan="2"><b>Total</b></td>
+<td><b>413,954 </b></td>
+<td><b>100</b></td>
+<td><b>81</b></td>
+<td><b>0</b>
+</td></tr>
+<tr>
+<td align="left" colspan="2">Registered voters/turnout</td>
+<td>541,232</td>
+<td>76.65</td>
+<td>–</td>
+<td>–
+</td></tr>
+<tr>
+<td colspan="6" align="left"><sup>M</sup> <small>denotes the national minority lists, for which the 3% threshold does not apply.</small>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Vote_share">Vote share</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit&amp;section=7" title="Edit section: Vote share">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table style="margin:0; border:none;"><tbody><tr><td style="border:none; padding:0;"><div class="barbox" style="overflow-x: auto;">
+<div style="border:1px solid silver; font-size:88%; padding:0.4em; width:600px; background: white;">
+<table style="text-align:left; border-collapse:collapse; width:100%;">
+
+<tbody><tr style="font-size:88%; height:4px;">
+<td colspan="2" style="padding:0 4px; text-align:left;"></td>
+<td style="width:410px; text-align:left;"></td>
+<td colspan="2" style="padding:0 4px; width:1em; text-align:right;"></td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">DPS</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#F6931D; width:35.06%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">35.06%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">ZBCG</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#4682B4; width:32.55%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">32.55%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">MNN</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#ffae42; width:12.53%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">12.53%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">URA</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#274B75; width:5.53%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">5.53%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">SD</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#F08080; width:4.10%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">4.10%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">BS</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#32CD32; width:3.98%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">3.98%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">SDP</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#DC143C; width:3.14%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">3.14%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Others</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:lightgrey; width:3.11%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">3.11%</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></td></tr></tbody></table>
+<h3><span class="mw-headline" id="Seat_totals">Seat totals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit&amp;section=8" title="Edit section: Seat totals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table style="margin:0; border:none;"><tbody><tr><td style="border:none; padding:0;"><div class="barbox" style="overflow-x: auto;">
+<div style="border:1px solid silver; font-size:88%; padding:0.4em; width:600px; background: white;">
+<table style="text-align:left; border-collapse:collapse; width:100%;">
+
+<tbody><tr style="font-size:88%; height:4px;">
+<td colspan="2" style="padding:0 4px; text-align:left;"></td>
+<td style="width:410px; text-align:left;"></td>
+<td colspan="2" style="padding:0 4px; width:1em; text-align:right;"></td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">DPS (30)</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#F6931D; width:37.03%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">37.03%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">ZBCG (27)</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#4682B4; width:33.33%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">33.33%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">MNN (10)</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#ffae42; width:12.34%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">12.34%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">URA (4)</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#274B75; width:4.93%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">4.93%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">SD (3)</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#F08080; width:3.70%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">3.70%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">BS (3)</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#32CD32; width:3.70%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">3.70%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">SDP (2)</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#DC143C; width:2.46%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">2.46%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">AL (1)</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#00AAE4; width:1.23%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">1.23%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">AK (1)</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:#8B0000; width:1.23%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">1.23%</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit&amp;section=9" title="Edit section: Aftermath">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Reactions">Reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit&amp;section=10" title="Edit section: Reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align:left; float:right; margin-right:9px; margin-left:2px;">
+
+<tbody><tr>
+<td style="text-align:left;"><a href="/wiki/File:Zdravko_Krivokapi%C4%87.png" class="image"><img alt="Zdravko Krivokapić.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Zdravko_Krivokapi%C4%87.png/132px-Zdravko_Krivokapi%C4%87.png" decoding="async" width="132" height="171" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Zdravko_Krivokapi%C4%87.png/198px-Zdravko_Krivokapi%C4%87.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Zdravko_Krivokapi%C4%87.png/264px-Zdravko_Krivokapi%C4%87.png 2x" data-file-width="361" data-file-height="467" /></a></td>
+<td style="text-align:left;"><a href="/wiki/File:Aleksa_Be%C4%8Di%C4%87_in_Podgorica,_February_2019.jpg" class="image"><img alt="Aleksa Bečić in Podgorica, February 2019.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aleksa_Be%C4%8Di%C4%87_in_Podgorica%2C_February_2019.jpg/122px-Aleksa_Be%C4%8Di%C4%87_in_Podgorica%2C_February_2019.jpg" decoding="async" width="122" height="172" srcset="//upload.wikimedia.org/wikipedia/commons/2/2d/Aleksa_Be%C4%8Di%C4%87_in_Podgorica%2C_February_2019.jpg 1.5x" data-file-width="162" data-file-height="228" /></a></td>
+<td style="text-align:left;"><a href="/wiki/File:Dritan_Abazovi%C4%87_in_Podgorica,_February_2019.jpg" class="image"><img alt="Dritan Abazović in Podgorica, February 2019.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dritan_Abazovi%C4%87_in_Podgorica%2C_February_2019.jpg/112px-Dritan_Abazovi%C4%87_in_Podgorica%2C_February_2019.jpg" decoding="async" width="112" height="172" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dritan_Abazovi%C4%87_in_Podgorica%2C_February_2019.jpg/168px-Dritan_Abazovi%C4%87_in_Podgorica%2C_February_2019.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0f/Dritan_Abazovi%C4%87_in_Podgorica%2C_February_2019.jpg 2x" data-file-width="210" data-file-height="322" /></a>
+</td></tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Zdravko_Krivokapi%C4%87" title="Zdravko Krivokapić">Zdravko Krivokapić</a>
+</td>
+<td style="text-align:center;"><a href="/wiki/Aleksa_Be%C4%8Di%C4%87" title="Aleksa Bečić">Aleksa Bečić</a>
+</td>
+<td style="text-align:center;"><a href="/wiki/Dritan_Abazovi%C4%87" title="Dritan Abazović">Dritan Abazović</a>
+</td></tr></tbody></table>
+<p>The <a href="/wiki/Organization_for_Security_and_Co-operation_in_Europe" title="Organization for Security and Co-operation in Europe">OSCE</a> and <a href="/wiki/Office_for_Democratic_Institutions_and_Human_Rights" title="Office for Democratic Institutions and Human Rights">ODIHR</a> announced in preliminary findings and conclusions that elections were competitive and held in an atmosphere of high polarization over issues of church and <a href="/wiki/Controversy_over_ethnic_and_linguistic_identity_in_Montenegro" title="Controversy over ethnic and linguistic identity in Montenegro">national identity</a>.<sup id="cite_ref-OSCE_2020_35-0" class="reference"><a href="#cite_note-OSCE_2020-35">&#91;35&#93;</a></sup><sup id="cite_ref-France24_36-0" class="reference"><a href="#cite_note-France24-36">&#91;36&#93;</a></sup> They also stated that the election date was not held in accordance with the Constitution, there was no independent campaign coverage, and the ruling party profited unjustifiably through widespread abuse of office and state resources.<sup id="cite_ref-OSCE_2020_35-1" class="reference"><a href="#cite_note-OSCE_2020-35">&#91;35&#93;</a></sup><sup id="cite_ref-France24_36-1" class="reference"><a href="#cite_note-France24-36">&#91;36&#93;</a></sup><sup id="cite_ref-EWB1_37-0" class="reference"><a href="#cite_note-EWB1-37">&#91;37&#93;</a></sup> Furthermore, they pointed out that, contrary to the national legislation and international standards, several MPs were arrested or prosecuted between elections.<sup id="cite_ref-OSCE_2020_35-2" class="reference"><a href="#cite_note-OSCE_2020-35">&#91;35&#93;</a></sup><sup id="cite_ref-EWB1_37-1" class="reference"><a href="#cite_note-EWB1-37">&#91;37&#93;</a></sup>
+</p><p>Political scientist <a href="/wiki/Florian_Bieber" title="Florian Bieber">Florian Bieber</a> described results as the "good news for democracy".<sup id="cite_ref-France24_36-2" class="reference"><a href="#cite_note-France24-36">&#91;36&#93;</a></sup> <a href="/wiki/Josep_Borrell" title="Josep Borrell">Josep Borrell</a>, <a href="/wiki/High_Representative_of_the_Union_for_Foreign_Affairs_and_Security_Policy" title="High Representative of the Union for Foreign Affairs and Security Policy">High Representative of the European Union for Foreign Affairs and Security Policy</a>, and <a href="/wiki/Oliv%C3%A9r_V%C3%A1rhelyi" title="Olivér Várhelyi">Olivér Várhelyi</a>, <a href="/wiki/European_Commissioner_for_Neighbourhood_and_Enlargement" title="European Commissioner for Neighbourhood and Enlargement">European Commissioner for Neighbourhood and Enlargement</a>, stated that they "look forward to the constitution of a new parliament and the formation of a new government that will continue Montenegro's steady path towards the EU."<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> Chair of Women wing of the <a href="/wiki/European_People%27s_Party" title="European People&#39;s Party">European People's Party</a> (EPP), <a href="/wiki/Doris_Pack" title="Doris Pack">Doris Pack</a> supported the new parliamentary majority in Montenegro, criticizing the outgoing DPS regime for "socialist propaganda" tactics, she appealed the Western public and media to not fall in the trap of obvious propaganda, emphasizing that the EU path will undoubtedly remain the principal objective of the new government, after the regime change.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</p><p>Next day after the election, the leaders of two opposition electoral lists, <a href="/wiki/For_the_Future_of_Montenegro" title="For the Future of Montenegro">For the Future of Montenegro</a> and <a href="/wiki/Peace_is_Our_Nation" title="Peace is Our Nation">Peace is Our Nation</a>, as well as the <a href="/wiki/United_Reform_Action" title="United Reform Action">United Reform Action</a> party, that combined won a slim majority, agreed to form an <a href="/wiki/Technocracy" title="Technocracy">expert government</a>, to continue to work on the <a href="/wiki/Accession_of_Montenegro_to_the_European_Union" title="Accession of Montenegro to the European Union">European Union accession process</a>, fight against corruption, overcoming society polarization and economic crisis, and to work on changing the <a href="/wiki/2019-20_Clerical_protests_in_Montenegro" class="mw-redirect" title="2019-20 Clerical protests in Montenegro">disputed Law on Religious Communities</a>.<sup id="cite_ref-France24_36-3" class="reference"><a href="#cite_note-France24-36">&#91;36&#93;</a></sup><sup id="cite_ref-N1_1_31-1" class="reference"><a href="#cite_note-N1_1-31">&#91;31&#93;</a></sup> They also welcomed the minority parties of <a href="/wiki/Bosniaks_of_Montenegro" title="Bosniaks of Montenegro">Bosniaks</a> and <a href="/wiki/Albanians_in_Montenegro" title="Albanians in Montenegro">Albanians in Montenegro</a> and wished to form a government with them.<sup id="cite_ref-N1_1_31-2" class="reference"><a href="#cite_note-N1_1-31">&#91;31&#93;</a></sup><sup id="cite_ref-BI_42-0" class="reference"><a href="#cite_note-BI-42">&#91;42&#93;</a></sup>
+</p><p>On 1 September, <a href="/wiki/Milo_%C4%90ukanovi%C4%87" title="Milo Đukanović">Milo Đukanović</a> conceded defeat, accusing Serbian President&#160;<a href="/wiki/Aleksandar_Vu%C4%8Di%C4%87" title="Aleksandar Vučić">Aleksandar Vučić</a>&#160;and <a href="/wiki/Media_of_Serbia" class="mw-redirect" title="Media of Serbia">Belgrade-based media</a> of interfering in the internal politics of Montenegro, as well of alleged trying to revive a "Greater Serbia&#160;policy".<sup id="cite_ref-N1_2_43-0" class="reference"><a href="#cite_note-N1_2-43">&#91;43&#93;</a></sup> He stated that it is possible that his party lost its support due to dissatisfaction with some policy, but also due to manipulations from&#160;<a href="/wiki/Belgrade" title="Belgrade">Belgrade</a>, as well from the&#160;<a href="/wiki/Serbian_Orthodox_Church_in_Montenegro" class="mw-redirect" title="Serbian Orthodox Church in Montenegro">Serbian Orthodox Church in Montenegro</a>, due to the disputed Law on Religious Communities.<sup id="cite_ref-N1_2_43-1" class="reference"><a href="#cite_note-N1_2-43">&#91;43&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Pljevlja_Mosque_1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pljevlja_Mosque_1.JPG/200px-Pljevlja_Mosque_1.JPG" decoding="async" width="200" height="269" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pljevlja_Mosque_1.JPG/300px-Pljevlja_Mosque_1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pljevlja_Mosque_1.JPG/400px-Pljevlja_Mosque_1.JPG 2x" data-file-width="2390" data-file-height="3219" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pljevlja_Mosque_1.JPG" class="internal" title="Enlarge"></a></div>The new majority parties and the <a href="/wiki/Serbian_Orthodox_Church" title="Serbian Orthodox Church">Serbian Orthodox</a> priests protested in front of the <a href="/wiki/Husein-pa%C5%A1a%27s_Mosque" title="Husein-paša&#39;s Mosque">Husein-paša's Mosque</a> (on photo) in support of the <a href="/wiki/Islam_in_Montenegro" title="Islam in Montenegro">Islamic Community</a>.</div></div></div>
+<h3><span class="mw-headline" id="Incidents">Incidents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit&amp;section=11" title="Edit section: Incidents">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Massive celebrations were held all over Montenegro the day after the elections. In Podgorica, opposition supporters clashed with the ruling DPS supporters.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup> <a href="/wiki/Zdravko_Krivokapi%C4%87" title="Zdravko Krivokapić">Zdravko Krivokapić</a>, <a href="/wiki/Aleksa_Be%C4%8Di%C4%87" title="Aleksa Bečić">Aleksa Bečić</a> and <a href="/wiki/Dritan_Abazovi%C4%87" title="Dritan Abazović">Dritan Abazović</a>, the leaders of the opposition lists, called on supporters to stay at home, as well as authorities to investigate incidents and prosecute any attackers.<sup id="cite_ref-BI_42-1" class="reference"><a href="#cite_note-BI-42">&#91;42&#93;</a></sup><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup> Although their <a href="/wiki/Markovi%C4%87_Cabinet" title="Marković Cabinet">incumbent cabinet</a> had previously banned all public gatherings due to the <a href="/wiki/COVID-19_pandemic_in_Montenegro" title="COVID-19 pandemic in Montenegro">COVID-19 pandemic in Montenegro</a>, the ruling <a href="/wiki/Democratic_Party_of_Socialists" class="mw-redirect" title="Democratic Party of Socialists">Democratic Party of Socialists</a> of President <a href="/wiki/Milo_%C4%90ukanovi%C4%87" title="Milo Đukanović">Milo Đukanović</a> announced a counter-meeting, due to the alleged "threat for Montenegrin statehood and independence", in case the DPS falls from a position of power.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup> Representatives of the new parliamentary majority, including Aleksa Bečić, Zdravko Krivokapić, Dritan Abazović, <a href="/wiki/Vladimir_Jokovi%C4%87" title="Vladimir Joković">Vladimir Joković</a>, <a href="/wiki/Miodrag_Leki%C4%87" title="Miodrag Lekić">Miodrag Lekić</a> and <a href="/wiki/Vladimir_Pavi%C4%87evi%C4%87" title="Vladimir Pavićević">Vladimir Pavićević</a> strongly condemned violence and conflict, accusing the <a href="/wiki/Markovi%C4%87_Cabinet" title="Marković Cabinet">DPS-led government</a>, the <a href="/wiki/Law_enforcement_in_Montenegro" title="Law enforcement in Montenegro">Police Administration</a> and the <a href="/wiki/National_Security_Agency_(Montenegro)" title="National Security Agency (Montenegro)">National Security Agency of Montenegro</a> administration of staging conflict and&#160;inciting ethnic hatred and unrest, in order to prevent a peaceful change of decades-long regime in Montenegro.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup> Krivokapić also demanded that the delinquents and perpetrators of the unrest must be identified and prosecuted by the police and the prosecution, as soon as possible.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup>
+</p><p>On 2 September, glass was broken on the door of the <a href="/wiki/Islam_in_Montenegro" title="Islam in Montenegro">Islamic Community</a> of <a href="/wiki/Pljevlja" title="Pljevlja">Pljevlja</a> and a message was left saying "The black bird has taken off, Pljevlja will be <a href="/wiki/Srebrenica_massacre" title="Srebrenica massacre">Srebrenica</a>." The informal group "Bunt Crna Gora" announced that, if the police do not immediately shed light on the case, "Serbs from Pljevlja will organize people's patrols in order to protect their neighbors from DPS subversion."<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup> Albin Ćeman, the deputy leader of the opposition <a href="/wiki/Democratic_Montenegro" title="Democratic Montenegro">Democrats</a> and member of Islamic community, called for calming tensions and accused the ruling party of instructed provocation.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup> The For the Future of Montenegro coalition condemned the incidents and also expressed suspicion that it was done by the outgoing DPS-led regime.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;53&#93;</a></sup> <a href="/wiki/Imam" title="Imam">Imam</a> of Pljevlja Samir Kadribašić stated that the attacks on the property of the Islamic community were an isolated incident of hooligans and that the new parliamentary majority parties do not represent those values.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;54&#93;</a></sup> Krivokapić protested with Serbian Orthodox Church priests in front of the <a href="/wiki/Husein-pa%C5%A1a%27s_Mosque" title="Husein-paša&#39;s Mosque">Husein-paša's Mosque</a>, with the message that they are ready to defend the places of worship of all religious communities in Montenegro.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;55&#93;</a></sup><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;56&#93;</a></sup> At the pro-<a href="/wiki/Markovi%C4%87_Cabinet" title="Marković Cabinet">government</a> “Patriotic gathering” in <a href="/wiki/Cetinje" title="Cetinje">Cetinje</a>, <a href="/wiki/Montenegrin_nationalism" title="Montenegrin nationalism">Montenegrin nationalists</a> performed <a href="/wiki/Anti-Serb_sentiment" title="Anti-Serb sentiment">anti-Serb</a> songs by <a href="/wiki/Miroslav_%C5%A0koro" title="Miroslav Škoro">Miroslav Škoro</a> and <i><a href="/wiki/Thompson_(band)" title="Thompson (band)">Thompson</a></i>, which also included the <a href="/wiki/Usta%C5%A1e" title="Ustaše">Ustaše</a> <a href="/wiki/Za_dom_spremni" title="Za dom spremni">salute</a>.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;57&#93;</a></sup><sup id="cite_ref-58" class="reference"><a href="#cite_note-58">&#91;58&#93;</a></sup><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">&#91;59&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://balkaninsight.com/2020/08/30/live-blog-montenegro-elections-2020/">"Live Blog: Montenegro Elections 2020"</a>. <i>Balkan Insight</i>. 30 August 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">8 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Balkan+Insight&amp;rft.atitle=Live+Blog%3A+Montenegro+Elections+2020&amp;rft.date=2020-08-30&amp;rft_id=https%3A%2F%2Fbalkaninsight.com%2F2020%2F08%2F30%2Flive-blog-montenegro-elections-2020%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFMarovic2020" class="citation news cs1">Marovic, Jovana (2 September 2020). <a rel="nofollow" class="external text" href="https://balkaninsight.com/2020/09/02/winners-and-losers-in-montenegros-earthquake-election/">"Winners and Losers in Montenegro's Earthquake Election"</a>. <i>Balkan Insight</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Balkan+Insight&amp;rft.atitle=Winners+and+Losers+in+Montenegro%E2%80%99s+Earthquake+Election&amp;rft.date=2020-09-02&amp;rft.aulast=Marovic&amp;rft.aufirst=Jovana&amp;rft_id=https%3A%2F%2Fbalkaninsight.com%2F2020%2F09%2F02%2Fwinners-and-losers-in-montenegros-earthquake-election%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.slobodnaevropa.org/amp/28148320.html">Novi izbori kao uslov opozicije za povratak u Parlament</a>, <a href="/wiki/Radio_Free_Europe/Radio_Liberty" title="Radio Free Europe/Radio Liberty">Radio Slobodna Evropa</a>, 30 November 2016</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://mondo.me/a585044/Info/Crna-Gora/Krivokapic-Ponoviti-izbore-najkasnije-do-2018.html">Ponoviti izbore najkasnije do 2018.</a>, <a href="https://meta.wikimedia.org/wiki/tel" class="extiw" title="m:tel">Mondo.me</a>, 7 February 2017</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gov.me/vijesti/213357/Potpredsjednik-Pazin-insistirao-u-Beogradu-da-Svetozar-Marovic-bude-izrucen-Crnoj-Gori.html">Potpredsjednik Pažin insistirao u Beogradu da Svetozar Marović bude izručen Crnoj Gori</a>, Vlada Crne Gore</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/463185/marovic-se-pojavio-u-javnosti-zelio-sam-da-kazem-neke-stvari">Marović: Đukanović bi da je Crna Gora država samo onih koji glasaju DPS, trenutak je za promjene</a>, Vijesti (August 2020)</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite id="CITEREFBalkan_Insight2020" class="citation web cs1">Balkan Insight (6 August 2020). <a rel="nofollow" class="external text" href="https://balkaninsight.com/2020/08/06/opposition-faces-uphill-battle-in-looming-montenegro-election/">"Opposition Faces Uphill Battle in Looming Montenegro Election"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Opposition+Faces+Uphill+Battle+in+Looming+Montenegro+Election&amp;rft.date=2020-08-06&amp;rft.au=Balkan+Insight&amp;rft_id=https%3A%2F%2Fbalkaninsight.com%2F2020%2F08%2F06%2Fopposition-faces-uphill-battle-in-looming-montenegro-election%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.dan.co.me/?nivo=3&amp;rubrika=Politika&amp;clanak=745328&amp;datum=2020-05-25">Perović: Ne izlazite na izbore, najavite opšti bojkot</a>, <a href="/wiki/Dan_(newspaper)" title="Dan (newspaper)">Dan online</a>, 20 May 2020</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://volimpodgoricu.me/2019/12/10/demokrate-napustile-odbor-povuci-iz-procedure-zakon-koji-izaziva-medjunacionalnu-mrznju/">DEMOKRATE NAPUSTILE ODBOR: Povući iz procedure zakon koji izaziva međunacionalnu mržnju</a>, volimpodgoricu.me/<a href="/wiki/Vijesti" title="Vijesti">Vijesti</a>, 19 December 2020</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFReuters2019" class="citation news cs1">Reuters (26 December 2019). <a rel="nofollow" class="external text" href="https://www.nytimes.com/reuters/2019/12/26/world/europe/26reuters-montenegro-protest.html">"Serbs Protest in Montenegro Ahead of Vote on Religious Law"</a>. <i>The New York Times</i>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0362-4331">0362-4331</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 January</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Serbs+Protest+in+Montenegro+Ahead+of+Vote+on+Religious+Law&amp;rft.date=2019-12-26&amp;rft.issn=0362-4331&amp;rft.au=Reuters&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2Freuters%2F2019%2F12%2F26%2Fworld%2Feurope%2F26reuters-montenegro-protest.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://balkaninsight.com/2019/06/14/montenegros-attack-on-church-property-will-create-lawless-society/">"Montenegro's Attack on Church Property Will Create Lawless Society"</a>. <i>Balkan Insight</i>. 14 June 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Balkan+Insight&amp;rft.atitle=Montenegro%27s+Attack+on+Church+Property+Will+Create+Lawless+Society&amp;rft.date=2019-06-14&amp;rft_id=https%3A%2F%2Fbalkaninsight.com%2F2019%2F06%2F14%2Fmontenegros-attack-on-church-property-will-create-lawless-society%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/433690/kako-se-crna-gora-nasla-u-hibridnim-rezimima">Kako se Crna Gora našla u "hibridnim režimima"</a>, <a href="/wiki/Vijesti" title="Vijesti">Vijesti</a>/<a href="/wiki/Radio_Free_Europe" class="mw-redirect" title="Radio Free Europe">Radio Free Europe</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.dan.co.me/?nivo=3&amp;rubrika=Vijest%20dana&amp;datum=2020-05-06&amp;clanak=743264">Crna Gora država pokradenih izbora</a>, <a href="/wiki/Dan_(newspaper)" title="Dan (newspaper)">Dan Online</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://freedomhouse.org/country/montenegro/freedom-world/2020">Freedom in the World—Montenegro Country Report</a>, <a href="/wiki/Freedom_House" title="Freedom House">Freedom House</a> (2020)</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"> c.f. Art. 94 <a rel="nofollow" class="external autonumber" href="http://www.legislationline.org/download/action/download/id/4191/file/Montenegro_Law_on_elections_of_councillors_and_representatives_1998_am2011_en.pdf">[1]</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ipu.org/parline-e/reports/2385_B.htm">Electoral system</a>, Inter-parliamentary Union</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/potpisan-sporazum-da-svako-ima-nismo-konkurencija-opoziciji-vec-dps-u-i-njihovim-satelitima">Potpisan sporazum "Da svako ima"</a>, Vijesti, 1 May 2019</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.cdm.me/english/new-political-alliance-to-be-set-up-soon/">New political alliance to be set up soon</a> Cafe del Montenegro, 30 April 2019</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vijesti.me/tv/emisije/456027/tv-vijesti-df-snp-i-narodni-pokret-zajedno-na-izborima">DF, SNP, Narodni pokret i Prava zajedno na izborima</a>, Vijesti, 31 July 2020</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.cdm.me/politika/snp-u-narodnom-pokretu-milacic-na-listi-df-a/">SNP u Narodnom pokretu, Milačić na listi DF-a</a>, CDM, 24 July 2020</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/450321/sta-pise-u-platformi-crno-na-bijelo-smjena-vlasti-ce-izroditi-drugaciju-crnu-goru">Šta piše i ko je potpisao platformu "Crno na bijelo": Smjena vlasti će izroditi drugačiju Crnu Goru</a>, <a href="/wiki/Vijesti" title="Vijesti">Vijesti</a></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/456621/spp-hazbije-kalaca-podzala-jplatformu-crno-na-bijelo">SPP Hazbije Kalača podžala Platformu Crno na bijelo</a>, Vijesti, 2 August 2020</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.standard.co.me/politika/nova-ponuda-lekic-rudovic-pavicevic-i-mijovic-na-izbornoj-listi-demokrata/">Nova ponuda: Lekić, Rudović, Pavićević i Mijović na izbornoj listi Demokrata</a>, <a href="/wiki/Dnevne_novine" title="Dnevne novine">Dnevne novine</a>, 12 July 2020</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.rts.rs/page/stories/sr/story/11/region/4015844/crna-gora-koalicija-gradjanski-blok.html">U Crnoj Gori formiran "Građanski blok"</a>, <a href="/wiki/Radio_Television_of_Serbia" title="Radio Television of Serbia">RTS</a>, 12 July 2020</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rtcg.me/vijesti/politika/285630/sdp-nece-u-neprincipijelne-koalicije.html">"SDP neće u neprincipijelne koalicije"</a>, <a href="/wiki/RTCG" title="RTCG">RTCG</a>, 12 July 2020</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rtcg.me/vijesti/politika/284344/sd-samostalno-na-parlamentarne-izbore.html">ODLUKA PREDSJEDNIŠTVA: SD samostalno na parlamentarne izbore</a>, <a href="/wiki/RTCG" title="RTCG">RTCG</a>, 7 July 2020</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.dan.co.me/?nivo=3&amp;rubrika=Politika&amp;clanak=753347&amp;datum=2020-07-27">Forca, AA i DSA zajedno na izborima</a>, Dan, 28 July 2020</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.dan.co.me/?nivo=3&amp;rubrika=Politika&amp;clanak=753596&amp;datum=2020-07-29">Albanci u dvije kolone</a>, Dan Online, 27 July 2020</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.portalanalitika.me/clanak/bosnjacka-stranka-predala-listu-za-predstojece-izbore">Bošnjačka stranka predala listu za predstojeće izbore</a>, Analitika, 3 August 2020</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/456595/markovic-nosilac-izborne-liste-dps">Marković nosilac izborne liste DPS</a>, <a href="/wiki/Vijesti" title="Vijesti">Vijesti</a>, 1 August 2020</span>
+</li>
+<li id="cite_note-N1_1-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-N1_1_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-N1_1_31-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-N1_1_31-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://rs.n1info.com/English/NEWS/a635113/Montenegrin-opposition-agrees-on-expert-government-revision-of-disputed-laws.html">"Montenegrin opposition agrees on expert government, revision of disputed laws"</a>. <a href="/wiki/N1_(TV_channel)" title="N1 (TV channel)">N1</a>. 31 August 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Montenegrin+opposition+agrees+on+expert+government%2C+revision+of+disputed+laws&amp;rft.pub=N1&amp;rft.date=2020-08-31&amp;rft_id=http%3A%2F%2Frs.n1info.com%2FEnglish%2FNEWS%2Fa635113%2FMontenegrin-opposition-agrees-on-expert-government-revision-of-disputed-laws.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://balkaninsight.com/2020/08/31/montenegro-opposition-calls-for-reconciliation-after-claiming-election-win/">"Montenegro Opposition Calls for Reconciliation After Claiming Election Win"</a>. 31 August 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Montenegro+Opposition+Calls+for+Reconciliation+After+Claiming+Election+Win&amp;rft.date=2020-08-31&amp;rft_id=https%3A%2F%2Fbalkaninsight.com%2F2020%2F08%2F31%2Fmontenegro-opposition-calls-for-reconciliation-after-claiming-election-win%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/465051/dik-dps-3512-za-buducnost-crne-gore-3252-odsto-glasova">"Konačni rezultati DIK-a: DPS 35.06, "Za budućnost Crne Gore" 32.55 odsto glasova"</a>. <i>vijesti.me</i> (in Serbian)<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=vijesti.me&amp;rft.atitle=Kona%C4%8Dni+rezultati+DIK-a%3A+DPS+35.06%2C+%22Za+budu%C4%87nost+Crne+Gore%22+32.55+odsto+glasova&amp;rft_id=https%3A%2F%2Fwww.vijesti.me%2Fvijesti%2Fpolitika%2F465051%2Fdik-dps-3512-za-buducnost-crne-gore-3252-odsto-glasova&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://rezultati.dik.co.me">"Parlamentarni izbori 2020"</a>. <i>National Electoral Commission</i> (in me)<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Electoral+Commission&amp;rft.atitle=Parlamentarni+izbori+2020&amp;rft_id=https%3A%2F%2Frezultati.dik.co.me&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: unrecognized language (<a href="/wiki/Category:CS1_maint:_unrecognized_language" title="Category:CS1 maint: unrecognized language">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-OSCE_2020-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-OSCE_2020_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-OSCE_2020_35-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-OSCE_2020_35-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.osce.org/files/f/documents/3/7/462016_2.pdf">"Montenegro, Parliamentary Elections, 30 August 2020: STATEMENT OF PRELIMINARY FINDINGS AND CONCLUSIONS"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Organization_for_Security_and_Co-operation_in_Europe" title="Organization for Security and Co-operation in Europe">Organization for Security and Co-operation in Europe</a>. 31 August 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Montenegro%2C+Parliamentary+Elections%2C+30+August+2020%3A+STATEMENT+OF+PRELIMINARY+FINDINGS+AND+CONCLUSIONS&amp;rft.pub=Organization+for+Security+and+Co-operation+in+Europe&amp;rft.date=2020-08-31&amp;rft_id=https%3A%2F%2Fwww.osce.org%2Ffiles%2Ff%2Fdocuments%2F3%2F7%2F462016_2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-France24-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-France24_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-France24_36-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-France24_36-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-France24_36-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.france24.com/en/20200831-montenegro-pro-west-party-risks-ouster-after-three-decades">"Montenegro pro-West party risks ouster after three decades"</a>. <a href="/wiki/France_24" title="France 24">France 24</a>. 31 August 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Montenegro+pro-West+party+risks+ouster+after+three+decades&amp;rft.pub=France+24&amp;rft.date=2020-08-31&amp;rft_id=https%3A%2F%2Fwww.france24.com%2Fen%2F20200831-montenegro-pro-west-party-risks-ouster-after-three-decades&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-EWB1-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-EWB1_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EWB1_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://europeanwesternbalkans.com/2020/08/31/osce-ruling-party-benefited-from-an-uneven-playing-field-in-montenegro/">"OSCE: Ruling party benefited from an uneven playing field in Montenegro"</a>. <i><a href="/wiki/European_Western_Balkans" title="European Western Balkans">European Western Balkans</a></i>. 31 August 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=European+Western+Balkans&amp;rft.atitle=OSCE%3A+Ruling+party+benefited+from+an+uneven+playing+field+in+Montenegro&amp;rft.date=2020-08-31&amp;rft_id=https%3A%2F%2Feuropeanwesternbalkans.com%2F2020%2F08%2F31%2Fosce-ruling-party-benefited-from-an-uneven-playing-field-in-montenegro%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://ec.europa.eu/commission/commissioners/2019-2024/varhelyi/announcements/statement-high-representativevice-president-josep-borrell-and-commissioner-oliver-varhelyi-elections_en">"Statement by High Representative/Vice-President Josep Borrell and Commissioner Olivér Várhelyi on the elections in Montenegro"</a>. <a href="/wiki/European_Commission" title="European Commission">European Commission</a>. 1 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Statement+by+High+Representative%2FVice-President+Josep+Borrell+and+Commissioner+Oliv%C3%A9r+V%C3%A1rhelyi+on+the+elections+in+Montenegro&amp;rft.pub=European+Commission&amp;rft.date=2020-09-01&amp;rft_id=https%3A%2F%2Fec.europa.eu%2Fcommission%2Fcommissioners%2F2019-2024%2Fvarhelyi%2Fannouncements%2Fstatement-high-representativevice-president-josep-borrell-and-commissioner-oliver-varhelyi-elections_en&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/465801/pak-evropski-put-ceostati-glavni-cilj-nove-vlade">Pak: Evropski put će ostati glavni cilj nove vlade</a>, Vijesti, 2 September 2020</span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://mobile.twitter.com/pack_doris/status/1300899671284555782">Doris Pack on Twitter</a>, 2 September 2020</span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite id="CITEREFMarović2020" class="citation web cs1">Marović, Jovana (1 September 2020). <a rel="nofollow" class="external text" href="https://biepag.eu/the-end-of-an-era-in-montenegro/">"The end of an era in Montenegro?"</a>. <i>BiEPAG</i>. The Balkans in Europe Policy Advisory Group.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BiEPAG&amp;rft.atitle=The+end+of+an+era+in+Montenegro%3F&amp;rft.date=2020-09-01&amp;rft.aulast=Marovi%C4%87&amp;rft.aufirst=Jovana&amp;rft_id=https%3A%2F%2Fbiepag.eu%2Fthe-end-of-an-era-in-montenegro%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-BI-42"><span class="mw-cite-backlink">^ <a href="#cite_ref-BI_42-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BI_42-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://balkaninsight.com/2020/09/01/montenegro-opposition-pledges-to-maintain-countrys-eu-path/">"Montenegro Opposition Pledges to Maintain Country's EU Path"</a>. <a href="/wiki/Balkan_Insight" title="Balkan Insight">Balkan Insight</a>. 1 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Montenegro+Opposition+Pledges+to+Maintain+Country%E2%80%99s+EU+Path&amp;rft.pub=Balkan+Insight&amp;rft.date=2020-09-01&amp;rft_id=https%3A%2F%2Fbalkaninsight.com%2F2020%2F09%2F01%2Fmontenegro-opposition-pledges-to-maintain-countrys-eu-path%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-N1_2-43"><span class="mw-cite-backlink">^ <a href="#cite_ref-N1_2_43-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-N1_2_43-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://rs.n1info.com/English/NEWS/a635491/Montenegro-s-President-concedes-defeat-adds-nationalism-from1990s-is-still-vibrant.html">"Montenegro's President concedes defeat; says Belgrade rivaives Serb nationalism"</a>. <a href="/wiki/N1_(TV_channel)" title="N1 (TV channel)">N1</a>. 1 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Montenegro%27s+President+concedes+defeat%3B+says+Belgrade+rivaives+Serb+nationalism&amp;rft.pub=N1&amp;rft.date=2020-09-01&amp;rft_id=http%3A%2F%2Frs.n1info.com%2FEnglish%2FNEWS%2Fa635491%2FMontenegro-s-President-concedes-defeat-adds-nationalism-from1990s-is-still-vibrant.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/465253/proslava-pobjede-opozicije-gradjani-se-okupili-ispred-hrama-u-podgorici">"Proslava pobjede opozicije: Građani se okupili ispred hrama u Podgorici"</a>. <i>vijesti.me</i> (in Serbian)<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=vijesti.me&amp;rft.atitle=Proslava+pobjede+opozicije%3A+Gra%C4%91ani+se+okupili+ispred+hrama+u+Podgorici&amp;rft_id=https%3A%2F%2Fwww.vijesti.me%2Fvijesti%2Fpolitika%2F465253%2Fproslava-pobjede-opozicije-gradjani-se-okupili-ispred-hrama-u-podgorici&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cdm.me/politika/sukobi-u-siti-kvartu-srpske-zastave-i-tri-prsta-ulicama-podgorice/">"Sukobi u Siti kvartu: Srpske zastave i tri prsta ulicama Podgorice"</a>. <i>CdM</i>. 31 August 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CdM&amp;rft.atitle=Sukobi+u+Siti+kvartu%3A+Srpske+zastave+i+tri+prsta+ulicama+Podgorice&amp;rft.date=2020-08-31&amp;rft_id=https%3A%2F%2Fwww.cdm.me%2Fpolitika%2Fsukobi-u-siti-kvartu-srpske-zastave-i-tri-prsta-ulicama-podgorice%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/465299/abazovic-nasiljem-i-provokacijama-ugrozavate-pobjedu-ostanite-kuci-ne-trebaju-nam-tenzije">"Abazovic: Nasiljem i provokacijama ugrožavate pobjedu, ostanite kuci ne trebaju nam tenzije"</a>. <a href="/wiki/Vijesti" title="Vijesti">Vijesti</a>. 1 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Abazovic%3A+Nasiljem+i+provokacijama+ugro%C5%BEavate+pobjedu%2C+ostanite+kuci+ne+trebaju+nam+tenzije&amp;rft.pub=Vijesti&amp;rft.date=2020-09-01&amp;rft_id=https%3A%2F%2Fwww.vijesti.me%2Fvijesti%2Fpolitika%2F465299%2Fabazovic-nasiljem-i-provokacijama-ugrozavate-pobjedu-ostanite-kuci-ne-trebaju-nam-tenzije&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/465391/dps-pozvao-svoje-pristalice-na-skup-6-septembra">DPS pozvao svoje pristalice na skup 6. septembra</a>, Vijesti, 1 September 2020</span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/465395/becic-nuhodzic-veljovic-i-lazovic-da-dostojanstveno-predaju-vlast-okupljanja-pomazu-mafiji">Bečić: Nuhodžić, Veljović i Lazović da dostojanstveno predaju vlast, okupljanja pomažu mafiji</a>, Vijesti, 1 September 2020</span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.pobjeda.me/clanak/krivokapic-neredi-nikom-ne-sluze-na-cast-crna-gora-ne-moze-biti-pod-srbijom-ili-rusijom">Krivokapić: Neredi nikom ne služe na čast, Crna Gora ne može biti pod Srbijom ili Rusijom</a>, Pobijeda, 1 September 2020</span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/crna-hronika/465607/polomljena-stakla-na-vratima-islamske-zajednice-u-pljevljima">"Polomljena stakla na vratima Islamske zajednice u PV, Kadribašić: Ako ne pronađu krivce policija odgovorna"</a>. <i>vijesti.me</i> (in Serbian)<span class="reference-accessdate">. Retrieved <span class="nowrap">2 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=vijesti.me&amp;rft.atitle=Polomljena+stakla+na+vratima+Islamske+zajednice+u+PV%2C+Kadriba%C5%A1i%C4%87%3A+Ako+ne+prona%C4%91u+krivce+policija+odgovorna&amp;rft_id=https%3A%2F%2Fwww.vijesti.me%2Fvijesti%2Fcrna-hronika%2F465607%2Fpolomljena-stakla-na-vratima-islamske-zajednice-u-pljevljima&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/465475/ceman-pozivam-na-mir-provokatori-instruisani-od-dps-pisu-grafite-i-uzvikuju-neprimjerene-parole">"Ćeman: Pozivam na mir, provokatori instruisani od DPS pišu grafite i uzvikuju neprimjerene parole"</a>. <a href="/wiki/Vijesti" title="Vijesti">Vijesti</a>. 2 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">2 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%C4%86eman%3A+Pozivam+na+mir%2C+provokatori+instruisani+od+DPS+pi%C5%A1u+grafite+i+uzvikuju+neprimjerene+parole&amp;rft.pub=Vijesti&amp;rft.date=2020-09-02&amp;rft_id=https%3A%2F%2Fwww.vijesti.me%2Fvijesti%2Fpolitika%2F465475%2Fceman-pozivam-na-mir-provokatori-instruisani-od-dps-pisu-grafite-i-uzvikuju-neprimjerene-parole&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/465625/lekic-koalicija-za-buducnost-crne-gore-ostro-osudjuje-prijetnje-pripadnicima-islamske-vjeroispovijesti">"Lekić: Koalicija "Za Budućnost Crne Gore" oštro osuđuje prijetnje pripadnicima islamske vjeroispovijesti"</a>. <a href="/wiki/Vijesti" title="Vijesti">Vijesti</a>. 2 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">2 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leki%C4%87%3A+Koalicija+%22Za+Budu%C4%87nost+Crne+Gore%22+o%C5%A1tro+osu%C4%91uje+prijetnje+pripadnicima+islamske+vjeroispovijesti&amp;rft.pub=Vijesti&amp;rft.date=2020-09-02&amp;rft_id=https%3A%2F%2Fwww.vijesti.me%2Fvijesti%2Fpolitika%2F465625%2Flekic-koalicija-za-buducnost-crne-gore-ostro-osudjuje-prijetnje-pripadnicima-islamske-vjeroispovijesti&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/465645/krivokapic-o-dogadjajima-u-pv-rukopis-djukanovicevih-sluzbi-pocinilac-iz-iste-strukture-kao-veljovic">Krivokapić o događajima u PV: Rukopis Đukanovićevih službi, počinilac iz iste strukture kao Veljović</a>, Vijesti, 2 September 2020</span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://balkans.aljazeera.net/video/pljevaljski-imam-djelo-pojedinca-ili-manje-grupe-huligana">"Pljevaljski imam: Djelo pojedinca ili manje grupe huligana"</a>. <a href="/wiki/Al_Jazeera_Balkans" title="Al Jazeera Balkans">Al Jazeera Balkans</a>. 2 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">2 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pljevaljski+imam%3A+Djelo+pojedinca+ili+manje+grupe+huligana&amp;rft.pub=Al+Jazeera+Balkans&amp;rft.date=2020-09-02&amp;rft_id=http%3A%2F%2Fbalkans.aljazeera.net%2Fvideo%2Fpljevaljski-imam-djelo-pojedinca-ili-manje-grupe-huligana&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://ba.n1info.com/Regija/a459103/Krivokapic-ispred-dzamije.html">"Krivokapić i sveštenici poslali poruku ispred Husein-pašine džamije"</a>. <a href="/wiki/N1_(TV_channel)" title="N1 (TV channel)">N1</a>. 2 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">2 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Krivokapi%C4%87+i+sve%C5%A1tenici+poslali+poruku+ispred+Husein-pa%C5%A1ine+d%C5%BEamije&amp;rft.pub=N1&amp;rft.date=2020-09-02&amp;rft_id=http%3A%2F%2Fba.n1info.com%2FRegija%2Fa459103%2FKrivokapic-ispred-dzamije.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/465837/krivokapic-branicemo-dzamije-kao-sto-smo-branili-nase-manastire">Krivokapić: Branićemo džamije, kao što smo branili naše manastire</a>, Vijesti, 2 September 2020</span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://dnevnik.hr/vijesti/svijet/crnogorci-se-okupili-na-patriotskom-skupu-uz-pjesme-thompsona-i-miroslava-skore---619100.html">"Patriotski skup: Okupili se crnogorski nacionalisti pa zapjevali Thompsona i Škoru!"</a>. dnevnik.hr. 4 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">5 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Patriotski+skup%3A+Okupili+se+crnogorski+nacionalisti+pa+zapjevali+Thompsona+i+%C5%A0koru%21&amp;rft.pub=dnevnik.hr&amp;rft.date=2020-09-04&amp;rft_id=https%3A%2F%2Fdnevnik.hr%2Fvijesti%2Fsvijet%2Fcrnogorci-se-okupili-na-patriotskom-skupu-uz-pjesme-thompsona-i-miroslava-skore---619100.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.vijesti.me/vijesti/politika/466541/na-cetinju-pjevali-tompsona">"Na Cetinju pjevali Tompsonovu "Bojna Čavoglave<span class="cs1-kern-right">"</span>"</a>. <a href="/wiki/Vijesti" title="Vijesti">Vijesti</a>. 4 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">5 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Na+Cetinju+pjevali+Tompsonovu+%22Bojna+%C4%8Cavoglave%22&amp;rft.pub=Vijesti&amp;rft.date=2020-09-04&amp;rft_id=https%3A%2F%2Fwww.vijesti.me%2Fvijesti%2Fpolitika%2F466541%2Fna-cetinju-pjevali-tompsona&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.politika.rs/sr/clanak/461839/Pristalice-vlasti-na-Cetinju-pevale-Tompsonovu-pesmu">"Pristalice vlasti na Cetinju pevale Tompsonovu pesmu"</a>. <a href="/wiki/Politika" title="Politika">Politika</a>. 5 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">5 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pristalice+vlasti+na+Cetinju+pevale+Tompsonovu+pesmu&amp;rft.pub=Politika&amp;rft.date=2020-09-05&amp;rft_id=http%3A%2F%2Fwww.politika.rs%2Fsr%2Fclanak%2F461839%2FPristalice-vlasti-na-Cetinju-pevale-Tompsonovu-pesmu&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2020+Montenegrin+parliamentary+election" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Montenegro&amp;#124;link=Montenegro_Elections_and_referendums_in_Montenegro" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Montenegrin_elections" title="Template:Montenegrin elections"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Montenegrin_elections" title="Template talk:Montenegrin elections"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Montenegrin_elections&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Montenegro&amp;#124;link=Montenegro_Elections_and_referendums_in_Montenegro" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Montenegro" title="Montenegro"><img alt="Montenegro" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/23px-Flag_of_Montenegro.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/35px-Flag_of_Montenegro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/46px-Flag_of_Montenegro.svg.png 2x" data-file-width="640" data-file-height="320" /></a></span> <a href="/wiki/Elections_in_Montenegro" title="Elections in Montenegro">Elections and referendums in Montenegro</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Parliament_of_Montenegro" title="Parliament of Montenegro">Parliamentary elections</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1905_Montenegrin_Constitutional_Assembly_election" title="1905 Montenegrin Constitutional Assembly election">1905</a></li>
+<li><a href="/wiki/1906_Montenegrin_parliamentary_election" title="1906 Montenegrin parliamentary election">1906</a></li>
+<li><a href="/wiki/1907_Montenegrin_parliamentary_election" title="1907 Montenegrin parliamentary election">1907</a></li>
+<li><a href="/wiki/1911_Montenegrin_parliamentary_election" title="1911 Montenegrin parliamentary election">1911</a></li>
+<li><a href="/wiki/1914_Montenegrin_parliamentary_election" title="1914 Montenegrin parliamentary election">1914</a></li>
+<li><a href="/wiki/1946_Montenegrin_parliamentary_election" title="1946 Montenegrin parliamentary election">1946</a></li>
+<li><a href="/wiki/1950_Montenegrin_parliamentary_election" class="mw-redirect" title="1950 Montenegrin parliamentary election">1950</a></li>
+<li><a href="/w/index.php?title=1953_Montenegrin_parliamentary_election&amp;action=edit&amp;redlink=1" class="new" title="1953 Montenegrin parliamentary election (page does not exist)">1953</a></li>
+<li><a href="/wiki/1958_Montenegrin_parliamentary_election" class="mw-redirect" title="1958 Montenegrin parliamentary election">1958</a></li>
+<li><a href="/wiki/1963_Montenegrin_parliamentary_election" class="mw-redirect" title="1963 Montenegrin parliamentary election">1963</a></li>
+<li><a href="/w/index.php?title=1965_Montenegrin_parliamentary_election&amp;action=edit&amp;redlink=1" class="new" title="1965 Montenegrin parliamentary election (page does not exist)">1965</a></li>
+<li><a href="/w/index.php?title=1967_Montenegrin_parliamentary_election&amp;action=edit&amp;redlink=1" class="new" title="1967 Montenegrin parliamentary election (page does not exist)">1967</a></li>
+<li><a href="/wiki/1969_Montenegrin_parliamentary_election" class="mw-redirect" title="1969 Montenegrin parliamentary election">1969</a></li>
+<li><a href="/wiki/1974_Montenegrin_parliamentary_election" class="mw-redirect" title="1974 Montenegrin parliamentary election">1974</a></li>
+<li><a href="/wiki/1978_Montenegrin_parliamentary_election" class="mw-redirect" title="1978 Montenegrin parliamentary election">1978</a></li>
+<li><a href="/w/index.php?title=1982_Montenegrin_parliamentary_election&amp;action=edit&amp;redlink=1" class="new" title="1982 Montenegrin parliamentary election (page does not exist)">1982</a></li>
+<li><a href="/w/index.php?title=1986_Montenegrin_parliamentary_election&amp;action=edit&amp;redlink=1" class="new" title="1986 Montenegrin parliamentary election (page does not exist)">1986</a></li>
+<li><a href="/wiki/1989_Montenegrin_parliamentary_election" class="mw-redirect" title="1989 Montenegrin parliamentary election">1989</a></li>
+<li><a href="/wiki/1990_Montenegrin_general_election" title="1990 Montenegrin general election">1990</a></li>
+<li><a href="/wiki/1992%E2%80%9393_Montenegrin_general_election" title="1992–93 Montenegrin general election">1992</a></li>
+<li><a href="/wiki/1996_Montenegrin_parliamentary_election" title="1996 Montenegrin parliamentary election">1996</a></li>
+<li><a href="/wiki/1998_Montenegrin_parliamentary_election" title="1998 Montenegrin parliamentary election">1998</a></li>
+<li><a href="/wiki/2001_Montenegrin_parliamentary_election" title="2001 Montenegrin parliamentary election">2001</a></li>
+<li><a href="/wiki/2002_Montenegrin_parliamentary_election" title="2002 Montenegrin parliamentary election">2002</a></li>
+<li><a href="/wiki/2006_Montenegrin_parliamentary_election" title="2006 Montenegrin parliamentary election">2006</a></li>
+<li><a href="/wiki/2009_Montenegrin_parliamentary_election" title="2009 Montenegrin parliamentary election">2009</a></li>
+<li><a href="/wiki/2012_Montenegrin_parliamentary_election" title="2012 Montenegrin parliamentary election">2012</a></li>
+<li><a href="/wiki/2016_Montenegrin_parliamentary_election" title="2016 Montenegrin parliamentary election">2016</a></li>
+<li><a class="mw-selflink selflink">2020</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/President_of_Montenegro" title="President of Montenegro">Presidential elections</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1990_Montenegrin_general_election" title="1990 Montenegrin general election">1990</a></li>
+<li><a href="/wiki/1992%E2%80%9393_Montenegrin_general_election" title="1992–93 Montenegrin general election">1992–93</a></li>
+<li><a href="/wiki/1997_Montenegrin_presidential_election" title="1997 Montenegrin presidential election">1997</a></li>
+<li><a href="/wiki/2002_Montenegrin_presidential_election" title="2002 Montenegrin presidential election">2002</a></li>
+<li><a href="/wiki/February_2003_Montenegrin_presidential_election" title="February 2003 Montenegrin presidential election">2003 (Feb)</a></li>
+<li><a href="/wiki/May_2003_Montenegrin_presidential_election" title="May 2003 Montenegrin presidential election">2003 (May)</a></li>
+<li><a href="/wiki/2008_Montenegrin_presidential_election" title="2008 Montenegrin presidential election">2008</a></li>
+<li><a href="/wiki/2013_Montenegrin_presidential_election" title="2013 Montenegrin presidential election">2013</a></li>
+<li><a href="/wiki/2018_Montenegrin_presidential_election" title="2018 Montenegrin presidential election">2018</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Municipalities_of_Montenegro" title="Municipalities of Montenegro">Local elections</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1990_Montenegrin_municipal_elections" title="1990 Montenegrin municipal elections">1990</a></li>
+<li><a href="/w/index.php?title=1992%E2%80%9394_Montenegrin_municipal_elections&amp;action=edit&amp;redlink=1" class="new" title="1992–94 Montenegrin municipal elections (page does not exist)">1992–94</a></li>
+<li><a href="/wiki/1998_Montenegrin_local_elections" title="1998 Montenegrin local elections">1996–98</a></li>
+<li><a href="/wiki/2000%E2%80%9302_Montenegrin_municipal_elections" title="2000–02 Montenegrin municipal elections">2000–02</a></li>
+<li><a href="/wiki/2004%E2%80%9306_Montenegrin_municipal_elections" title="2004–06 Montenegrin municipal elections">2004–06</a></li>
+<li><a href="/wiki/2008%E2%80%9310_Montenegrin_municipal_elections" title="2008–10 Montenegrin municipal elections">2008–10</a></li>
+<li><a href="/wiki/2012%E2%80%9314_Montenegrin_municipal_elections" title="2012–14 Montenegrin municipal elections">2012–14</a></li>
+<li><a href="/wiki/2016%E2%80%9318_Montenegrin_municipal_elections" title="2016–18 Montenegrin municipal elections">2016–18</a></li>
+<li><a href="/wiki/2020_Montenegrin_municipal_elections" title="2020 Montenegrin municipal elections">2020–22</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Referendums</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1992_Montenegrin_independence_referendum" title="1992 Montenegrin independence referendum">1992</a></li>
+<li><a href="/wiki/2006_Montenegrin_independence_referendum" title="2006 Montenegrin independence referendum">2006</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li>See also: <a href="/wiki/Elections_in_Serbia_and_Montenegro" title="Elections in Serbia and Montenegro">Elections in Serbia and Montenegro</a></li>
+<li><a href="/wiki/Elections_in_Yugoslavia" title="Elections in Yugoslavia">Elections in Yugoslavia</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2254
+Cached time: 20200908145248
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.684 seconds
+Real time usage: 0.835 seconds
+Preprocessor visited node count: 5452/1000000
+Post‐expand include size: 125607/2097152 bytes
+Template argument size: 13081/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 123853/5000000 bytes
+Lua time usage: 0.233/10.000 seconds
+Lua memory usage: 6.3 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  643.419      1 -total
+ 41.70%  268.315      2 Template:Infobox
+ 35.44%  228.025      1 Template:Reflist
+ 34.07%  219.230      1 Template:Infobox_legislative_election
+ 27.06%  174.077     25 Template:Cite_web
+ 12.03%   77.402      1 Template:Alternating_rows_table_section
+ 10.70%   68.825      9 Template:Infobox_legislative_election/row
+ 10.00%   64.359      1 Template:Short_description
+  7.75%   49.858     28 Template:If_empty
+  5.74%   36.930      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:48960538-0!canonical and timestamp 20200908145247 and revision id 977386509
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;oldid=977386509">https://en.wikipedia.org/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;oldid=977386509</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2020_elections_in_Europe" title="Category:2020 elections in Europe">2020 elections in Europe</a></li><li><a href="/wiki/Category:2020_in_Montenegro" title="Category:2020 in Montenegro">2020 in Montenegro</a></li><li><a href="/wiki/Category:August_2020_events_in_Europe" title="Category:August 2020 events in Europe">August 2020 events in Europe</a></li><li><a href="/wiki/Category:Elections_in_Montenegro" title="Category:Elections in Montenegro">Elections in Montenegro</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Serbian-language_sources_(sr)" title="Category:CS1 Serbian-language sources (sr)">CS1 Serbian-language sources (sr)</a></li><li><a href="/wiki/Category:CS1_maint:_unrecognized_language" title="Category:CS1 maint: unrecognized language">CS1 maint: unrecognized language</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2020" title="Category:Use dmy dates from August 2020">Use dmy dates from August 2020</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Pages_using_bar_box_without_float_left_or_float_right" title="Category:Pages using bar box without float left or float right">Pages using bar box without float left or float right</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=2020+Montenegrin+parliamentary+election" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2020+Montenegrin+parliamentary+election" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/2020_Montenegrin_parliamentary_election" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:2020_Montenegrin_parliamentary_election" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/2020_Montenegrin_parliamentary_election">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/2020_Montenegrin_parliamentary_election" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/2020_Montenegrin_parliamentary_election" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;oldid=977386509" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=2020_Montenegrin_parliamentary_election&amp;id=977386509&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q48834913" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=2020_Montenegrin_parliamentary_election&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Parlamentswahl_in_Montenegro_2020" title="Parlamentswahl in Montenegro 2020 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CF%85%CF%81%CE%BF%CE%B2%CE%BF%CF%85%CE%BD%CE%B9%CE%B1%CE%BA%CE%AD%CF%82_%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AD%CF%82_%CE%B5%CE%BA%CE%BB%CE%BF%CE%B3%CE%AD%CF%82_2020" title="Μαυροβουνιακές βουλευτικές εκλογές 2020 – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Elecciones_parlamentarias_de_Montenegro_de_2020" title="Elecciones parlamentarias de Montenegro de 2020 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86%DB%8C_%D9%85%D9%88%D9%86%D8%AA%D9%87%E2%80%8C%D9%86%DA%AF%D8%B1%D9%88_(%DB%B2%DB%B0%DB%B2%DB%B0)" title="انتخابات پارلمانی مونته‌نگرو (۲۰۲۰) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_mont%C3%A9n%C3%A9grines_de_2020" title="Élections législatives monténégrines de 2020 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Parlamentarni_izbori_u_Crnoj_Gori_2020." title="Parlamentarni izbori u Crnoj Gori 2020. – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Elezioni_parlamentari_in_Montenegro_del_2020" title="Elezioni parlamentari in Montenegro del 2020 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/2020-as_montenegr%C3%B3i_parlamenti_v%C3%A1laszt%C3%A1sok" title="2020-as montenegrói parlamenti választások – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B8%D0%B8_(2020)" title="Парламентские выборы в Черногории (2020) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%98%D0%B7%D0%B1%D0%BE%D1%80%D0%B8_%D0%B7%D0%B0_%D0%BF%D0%BE%D1%81%D0%BB%D0%B0%D0%BD%D0%B8%D0%BA%D0%B5_%D1%83_%D0%A1%D0%BA%D1%83%D0%BF%D1%88%D1%82%D0%B8%D0%BD%D1%83_%D0%A6%D1%80%D0%BD%D0%B5_%D0%93%D0%BE%D1%80%D0%B5_2020." title="Избори за посланике у Скупштину Црне Горе 2020. – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%81%D1%8C%D0%BA%D1%96_%D0%B2%D0%B8%D0%B1%D0%BE%D1%80%D0%B8_%D0%B2_%D0%A7%D0%BE%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%96%D1%97_2020" title="Парламентські вибори в Чорногорії 2020 – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q48834913#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 8 September 2020, at 14:52<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=2020_Montenegrin_parliamentary_election&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.684","walltime":"0.835","ppvisitednodes":{"value":5452,"limit":1000000},"postexpandincludesize":{"value":125607,"limit":2097152},"templateargumentsize":{"value":13081,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":123853,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  643.419      1 -total"," 41.70%  268.315      2 Template:Infobox"," 35.44%  228.025      1 Template:Reflist"," 34.07%  219.230      1 Template:Infobox_legislative_election"," 27.06%  174.077     25 Template:Cite_web"," 12.03%   77.402      1 Template:Alternating_rows_table_section"," 10.70%   68.825      9 Template:Infobox_legislative_election/row"," 10.00%   64.359      1 Template:Short_description","  7.75%   49.858     28 Template:If_empty","  5.74%   36.930      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.233","limit":"10.000"},"limitreport-memusage":{"value":6605615,"limit":52428800}},"cachereport":{"origin":"mw2254","timestamp":"20200908145248","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"2020 Montenegrin parliamentary election","url":"https:\/\/en.wikipedia.org\/wiki\/2020_Montenegrin_parliamentary_election","sameAs":"http:\/\/www.wikidata.org\/entity\/Q48834913","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q48834913","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-12-31T13:16:23Z","dateModified":"2020-09-08T14:52:33Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f3\/2020_Montenegrin_parliamentary_election_map.svg","headline":"election in Montenegro"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw2316"});});</script>
+</body></html>

@@ -32,10 +32,11 @@ def extract_features(filename):
 
 def main(root_url, depth):
     print(root_url, depth)
-    # Add root URL to FIFO queue.
-    # Dequeue root URL, fetch, save, and feature extract HTML, parse any links into FIFO queue.
-    # For depth:
-    #   Add children of first item in queue to back of queue.
+    # Add root URL to FIFO queue with a depth of 0.
+    # Dequeue root URL, decrement global depth, fetch, save, and feature extract HTML, parse any links into FIFO queue.
+    # For (depth):
+    #   Add children of first item in queue to back of queue, with local depth of parent + 1.
+    #   If local depth is higher than global depth, skip.
 
 
 fetch_html("https://en.wikipedia.org/wiki/GW190521")

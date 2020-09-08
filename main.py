@@ -5,14 +5,17 @@
 # Purpose:      Demonstrate understanding of iterative deepening depth-first search, web crawling, and feature
 #               extraction.
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+import os
+import urllib.request
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+def fetch_html(url):
+    filename = "output/" + "".join(filter(str.isalpha, url))
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    file = open(filename + ".txt", "wb")
+    file.write(urllib.request.urlopen(url).read())
+    file.close()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+fetch_html("https://en.wikipedia.org/wiki/GW190521")
+fetch_html("https://en.wikipedia.org/wiki/2020_Montenegrin_parliamentary_election")

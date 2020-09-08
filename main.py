@@ -31,6 +31,14 @@ def extract_features(filename):
     print(features)
 
 
+def main(root_url, depth):
+    print("We're working on it.")
+    # Add root URL to FIFO queue.
+    # Dequeue root URL, fetch, save, and feature extract HTML, parse any links into FIFO queue.
+    # For depth:
+    #   Add children of first item in queue to back of queue.
+
+
 fetch_html("https://en.wikipedia.org/wiki/GW190521")
 fetch_html("https://en.wikipedia.org/wiki/2020_Montenegrin_parliamentary_election")
 

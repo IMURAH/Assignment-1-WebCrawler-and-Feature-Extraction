@@ -1,7 +1,9 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# Project:      Assignment-1-WebCrawler-and-Feature-Extraction
+# Program name: main.py
+# Author:       James Browning (jlb0181) and Le Cai
+# Date created: September 2020
+# Purpose:      Demonstrate understanding of iterative deepening depth-first search, web crawling, and feature
+#               extraction.
 
 
 def print_hi(name):
